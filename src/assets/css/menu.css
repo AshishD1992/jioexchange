@@ -1,0 +1,3087 @@
+
+.container-main[_ngcontent-qxe-c1] .left-menu[_ngcontent-qxe-c1] {
+    z-index: 45;
+    min-width: 250px;
+    width: 250px
+}
+
+.container-main[_ngcontent-qxe-c1] .main-content-wrapper[_ngcontent-qxe-c1] .main-content[_ngcontent-qxe-c1] {
+    height: 100%;
+    background-color: #efe4b0
+}
+
+.container-main[_ngcontent-qxe-c1] .main-content-wrapper[_ngcontent-qxe-c1] .main-content[_ngcontent-qxe-c1] .content-wrapper[_ngcontent-qxe-c1] {
+    min-height: calc(100vh - 100px)
+}
+
+.container-main[_ngcontent-qxe-c1] .main-content-wrapper[_ngcontent-qxe-c1] .notification[_ngcontent-qxe-c1] {
+    padding-top: 10px;
+    position: relative;
+    z-index: 20
+}
+
+.container-main[_ngcontent-qxe-c1] .underlay[_ngcontent-qxe-c1] {
+    margin-left: -250px
+}
+
+.exchangeGame[_ngcontent-qxe-c1] {
+    width: 100%;
+    min-height: calc(100vh - 55px)
+}
+
+.notification[_ngcontent-qxe-c1] {
+    background: #fff
+}
+
+.notification[_ngcontent-qxe-c1] .announcement-wrapper[_ngcontent-qxe-c1] {
+    padding: 0 10px;
+    position: relative
+}
+
+.notification[_ngcontent-qxe-c1] .announcement-container[_ngcontent-qxe-c1] {
+    height: 30px
+}
+
+.timer-container[_ngcontent-qxe-c1] {
+    border-bottom: 1px solid #e1e1e1
+}
+
+@media only screen and (min-width:1200px) {
+    .footer-wrapper[_ngcontent-qxe-c1] {
+        display: none
+    }
+}
+
+
+.top-panel[_ngcontent-qxe-c2] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-left[_ngcontent-qxe-c2] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    min-height: 50px
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-left[_ngcontent-qxe-c2] .logo[_ngcontent-qxe-c2] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    cursor: pointer
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-left[_ngcontent-qxe-c2] .logo.report-page[_ngcontent-qxe-c2] {
+    -ms-flex-align: start;
+    align-items: flex-start;
+    margin-left: 20px
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-left[_ngcontent-qxe-c2] .menu-icon[_ngcontent-qxe-c2] {
+    height: 100%;
+    min-height: 50px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    justify-items: center;
+    min-width: 50px;
+    cursor: pointer
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-left[_ngcontent-qxe-c2] .menu-icon[_ngcontent-qxe-c2] .left-menu-icon[_ngcontent-qxe-c2] {
+    padding: 12px 0 0 12px;
+    height: 100%;
+    width: 100%
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-left[_ngcontent-qxe-c2] .menu-icon[_ngcontent-qxe-c2] .home-icon[_ngcontent-qxe-c2] {
+    height: 100%;
+    width: 100%;
+    padding: 12px 0 0 7px
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-left[_ngcontent-qxe-c2] .menu-icon[_ngcontent-qxe-c2] img[_ngcontent-qxe-c2] {
+    height: 25px;
+    width: 25px;
+    vertical-align: middle
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-left[_ngcontent-qxe-c2] .menu-icon[_ngcontent-qxe-c2]:hover {
+    box-shadow: 0 2px 40px rgba(0, 0, 0, .4)
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: end;
+    justify-content: flex-end
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .profit-group[_ngcontent-qxe-c2] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 15px;
+    height: 30px;
+    background: #e2a500
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .profit-group[_ngcontent-qxe-c2] .balance[_ngcontent-qxe-c2],
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .profit-group[_ngcontent-qxe-c2] .liability[_ngcontent-qxe-c2] {
+    text-align: center;
+    height: 100%;
+    line-height: 50px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .profit-group[_ngcontent-qxe-c2] .balance[_ngcontent-qxe-c2] .bal-val[_ngcontent-qxe-c2],
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .profit-group[_ngcontent-qxe-c2] .balance[_ngcontent-qxe-c2] .lia-val[_ngcontent-qxe-c2],
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .profit-group[_ngcontent-qxe-c2] .balance[_ngcontent-qxe-c2] .title[_ngcontent-qxe-c2],
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .profit-group[_ngcontent-qxe-c2] .liability[_ngcontent-qxe-c2] .bal-val[_ngcontent-qxe-c2],
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .profit-group[_ngcontent-qxe-c2] .liability[_ngcontent-qxe-c2] .lia-val[_ngcontent-qxe-c2],
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .profit-group[_ngcontent-qxe-c2] .liability[_ngcontent-qxe-c2] .title[_ngcontent-qxe-c2] {
+    font-weight: 700;
+    margin-right: 5px
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .profit-group[_ngcontent-qxe-c2] .balance[_ngcontent-qxe-c2] .lia-val[_ngcontent-qxe-c2],
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .profit-group[_ngcontent-qxe-c2] .liability[_ngcontent-qxe-c2] .lia-val[_ngcontent-qxe-c2] {
+    color: red;
+    margin-right: 0
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .profit-group[_ngcontent-qxe-c2] .between[_ngcontent-qxe-c2] {
+    margin-right: 5px
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .account[_ngcontent-qxe-c2] {
+    cursor: pointer;
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+    -ms-flex-align: center;
+    align-items: center;
+    justify-items: center;
+    text-decoration: none;
+    text-align: center
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .account[_ngcontent-qxe-c2] .title[_ngcontent-qxe-c2] {
+    font-weight: 700;
+    font-size: 14px;
+    height: 100%;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 0 10px
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .account[_ngcontent-qxe-c2] .dropdown-menu[_ngcontent-qxe-c2] {
+    display: block;
+    position: absolute;
+    left: auto;
+    right: 0;
+    width: 100%;
+    z-index: 90;
+    list-style: none;
+    min-width: 250px;
+    border-radius: 2px !important;
+    background-clip: padding-box !important;
+    box-shadow: 0 2px 40px rgba(0, 0, 0, .4);
+    transition: opacity 218ms;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+    border: none;
+    transition: all .3s linear
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .account[_ngcontent-qxe-c2] .dropdown-menu[_ngcontent-qxe-c2] li[_ngcontent-qxe-c2] {
+    border-bottom: 1px solid #f5f5f5;
+    padding: 0 8px
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .account[_ngcontent-qxe-c2] .dropdown-menu[_ngcontent-qxe-c2] li[_ngcontent-qxe-c2] a[_ngcontent-qxe-c2],
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .account[_ngcontent-qxe-c2] .dropdown-menu[_ngcontent-qxe-c2] li[_ngcontent-qxe-c2] span[_ngcontent-qxe-c2] {
+    margin: 0;
+    line-height: 16px;
+    padding: 10px 2px;
+    display: block;
+    color: #333;
+    white-space: nowrap;
+    text-align: left;
+    text-decoration: none;
+    box-shadow: none;
+    border: none;
+    outline: 0
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .account[_ngcontent-qxe-c2] .dropdown-menu[_ngcontent-qxe-c2] li[_ngcontent-qxe-c2] a.name-group[_ngcontent-qxe-c2],
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .account[_ngcontent-qxe-c2] .dropdown-menu[_ngcontent-qxe-c2] li[_ngcontent-qxe-c2] span.name-group[_ngcontent-qxe-c2] {
+    cursor: initial
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .account[_ngcontent-qxe-c2] .dropdown-menu[_ngcontent-qxe-c2] li.dropdown-footer[_ngcontent-qxe-c2] {
+    border-top: 3px solid #2dc3e8;
+    border-bottom: 0;
+    text-align: right
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .account[_ngcontent-qxe-c2] .dropdown-menu[_ngcontent-qxe-c2] li.dropdown-footer[_ngcontent-qxe-c2] a[_ngcontent-qxe-c2] {
+    text-align: right
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .account[_ngcontent-qxe-c2] .dropdown-menu-overlay[_ngcontent-qxe-c2] {
+    display: block;
+    position: fixed;
+    z-index: 80;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+    cursor: default
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .account[_ngcontent-qxe-c2] [_ngcontent-qxe-c2]:focus:not(.dropdown-balance),
+.top-panel[_ngcontent-qxe-c2] .nav-right[_ngcontent-qxe-c2] .account[_ngcontent-qxe-c2]:hover:not(.dropdown-balance) {
+    box-shadow: 0 2px 40px rgba(0, 0, 0, .4) inset
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right.login[_ngcontent-qxe-c2] input[_ngcontent-qxe-c2] {
+    height: 25px;
+    font-size: 14px
+}
+
+.top-panel[_ngcontent-qxe-c2] .nav-right.login[_ngcontent-qxe-c2] button[_ngcontent-qxe-c2] {
+    font-size: 14px;
+    height: 25px;
+    color: #fff;
+    background-color: #000;
+    border: 0;
+    width: auto;
+    outline: 0;
+    padding: 0 20px;
+    border-radius: 4px
+}
+
+.top-panel[_ngcontent-qxe-c2] .btn-in-out[_ngcontent-qxe-c2]:hover {
+    border: 1px solid #000;
+    background-color: #fff;
+    padding: 5px 10px;
+    font-weight: 700;
+    cursor: pointer
+}
+
+.top-panel[_ngcontent-qxe-c2] .dropdown-balance[_ngcontent-qxe-c2] {
+    display: block;
+    position: absolute;
+    left: auto;
+    right: 0;
+    width: auto;
+    z-index: 90;
+    list-style: none;
+    border-radius: 2px;
+    box-shadow: 0 2px 40px rgba(0, 0, 0, .4);
+    background-color: #fff;
+    transition: all .3s linear
+}
+
+.top-panel[_ngcontent-qxe-c2] .dropdown-balance[_ngcontent-qxe-c2] .lia-val[_ngcontent-qxe-c2] {
+    color: red;
+    margin-right: 0
+}
+
+.top-panel[_ngcontent-qxe-c2] .dropdown-balance-overlay[_ngcontent-qxe-c2] {
+    display: block;
+    position: fixed;
+    z-index: 80;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+    cursor: default
+}
+
+.ellipsis-text[_ngcontent-qxe-c2] {
+    max-width: 70px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+
+.container-announcement[_ngcontent-qxe-c4] {
+    width: 100%;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex: 6px 0;
+    flex: 6px 0;
+    border-bottom: 1px solid #e0ddc9;
+    position: absolute
+}
+
+.container-announcement[_ngcontent-qxe-c4] .fx-comment[_ngcontent-qxe-c4] .announcement-icon[_ngcontent-qxe-c4] {
+    width: 25px;
+    height: 25px;
+    background-size: 100%;
+    margin: 2px 8px 0 0;
+    background-position: center center;
+    float: left
+}
+
+.container-announcement[_ngcontent-qxe-c4] .fx-marquee[_ngcontent-qxe-c4],
+.container-announcement[_ngcontent-qxe-c4] .marquee[_ngcontent-qxe-c4] {
+    width: 100%
+}
+
+.container-announcement[_ngcontent-qxe-c4] .fx-marquee[_ngcontent-qxe-c4] .marquee[_ngcontent-qxe-c4] {
+    min-width: 10em;
+    min-height: 2rem;
+    font-weight: 700;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box
+}
+
+.container-announcement[_ngcontent-qxe-c4] .fx-marquee[_ngcontent-qxe-c4] .marquee[_ngcontent-qxe-c4] p[_ngcontent-qxe-c4] {
+    display: inline-block;
+    padding: .25rem .5rem .25rem 100%;
+    margin-bottom: 0
+}
+
+
+.time-contain[_ngcontent-qxe-c5] .time[_ngcontent-qxe-c5] {
+    width: 60px
+}
+
+
+.top-navbar-container[_ngcontent-qxe-c6] .navbar[_ngcontent-qxe-c6] .navbar-nav[_ngcontent-qxe-c6] .nav-item[_ngcontent-qxe-c6] a[_ngcontent-qxe-c6] {
+    font-size: 14px;
+    text-decoration: none;
+    line-height: 31px;
+    cursor: pointer;
+    padding: 0 10px;
+    text-transform: uppercase;
+    font-weight: 700
+}
+
+.navbar-nopadding[_ngcontent-qxe-c6] {
+    padding: 0
+}
+
+.navbar-nav[_ngcontent-qxe-c6] {
+    overflow-x: auto;
+    height: 100%;
+    white-space: nowrap
+}
+
+
+nav[_ngcontent-qxe-c8] {
+    padding: 0;
+    background-color: #a6a9b8
+}
+
+nav[_ngcontent-qxe-c8] .navbar-nav[_ngcontent-qxe-c8] {
+    overflow-x: auto;
+    height: 100%
+}
+
+nav[_ngcontent-qxe-c8] .navbar-nav[_ngcontent-qxe-c8] li[_ngcontent-qxe-c8] {
+    white-space: nowrap;
+    padding: 0 10px
+}
+
+nav[_ngcontent-qxe-c8] .navbar-nav[_ngcontent-qxe-c8] li[_ngcontent-qxe-c8] a[_ngcontent-qxe-c8] {
+    display: inline-block;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700
+}
+
+nav[_ngcontent-qxe-c8] .navbar-nav[_ngcontent-qxe-c8] li.active[_ngcontent-qxe-c8] {
+    background-color: #232323
+}
+
+nav[_ngcontent-qxe-c8] .navbar-nav[_ngcontent-qxe-c8] li[_ngcontent-qxe-c8] .home-icon[_ngcontent-qxe-c8] {
+   
+    height: 16px;
+    width: 16px;
+    position: relative;
+    top: 10px
+}
+
+nav[_ngcontent-qxe-c8] .navbar-nav[_ngcontent-qxe-c8] .game-group-icon[_ngcontent-qxe-c8] img[_ngcontent-qxe-c8] {
+    height: 16px
+}
+
+
+.page-container[_ngcontent-qxe-c3] {
+    height: 100%;
+    min-width: 250px;
+    width: 250px
+}
+
+.page-container[_ngcontent-qxe-c3] a[_ngcontent-qxe-c3] {
+    text-decoration: none;
+    color: #000
+}
+
+.page-container[_ngcontent-qxe-c3] .sidebar-header-wrapper[_ngcontent-qxe-c3] {
+    position: relative;
+    padding: 10px 5px;
+    display: grid
+}
+
+.page-container[_ngcontent-qxe-c3] .sidebar-header-wrapper[_ngcontent-qxe-c3] .search-result[_ngcontent-qxe-c3] {
+    display: none
+}
+
+.page-container[_ngcontent-qxe-c3] .sidebar-header-wrapper[_ngcontent-qxe-c3] .search-icon[_ngcontent-qxe-c3] {
+    position: absolute;
+    top: 53%;
+    right: 15px;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%)
+}
+
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] {
+    position: relative;
+    padding-left: 5px;
+    cursor: pointer;
+    overflow-y: auto;
+    overflow-x: hidden
+}
+
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .loading-icon[_ngcontent-qxe-c3] {
+    position: absolute;
+    top: 5px;
+    right: 15px
+}
+
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level0[_ngcontent-qxe-c3] {
+    font-weight: lighter;
+    padding-left: 5px
+}
+
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level0[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level1[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level2[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level3[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level4[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level5[_ngcontent-qxe-c3] {
+    white-space: pre-wrap;
+    line-height: 20px;
+    min-height: 30px;
+    overflow-y: hidden;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level1[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level2[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level3[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level4[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level5[_ngcontent-qxe-c3] {
+    border-bottom: 1px ridge #e0ddc9
+}
+
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level1[_ngcontent-qxe-c3] {
+    padding-left: 10px
+}
+
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level2[_ngcontent-qxe-c3] {
+    padding-left: 15px
+}
+
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level3[_ngcontent-qxe-c3] {
+    padding-left: 20px
+}
+
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level4[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .item-level5[_ngcontent-qxe-c3] {
+    padding-left: 25px
+}
+
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .downs-levels[_ngcontent-qxe-c3] .level[_ngcontent-qxe-c3] {
+    position: relative
+}
+
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .downs-levels[_ngcontent-qxe-c3] .level[_ngcontent-qxe-c3] .item-level2[_ngcontent-qxe-c3] span[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .downs-levels[_ngcontent-qxe-c3] .level[_ngcontent-qxe-c3] .item-level4[_ngcontent-qxe-c3] span[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .downs-levels[_ngcontent-qxe-c3] .level[_ngcontent-qxe-c3] .item-level5[_ngcontent-qxe-c3] span[_ngcontent-qxe-c3] {
+    margin-left: 5px
+}
+
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .downs-levels[_ngcontent-qxe-c3] .level[_ngcontent-qxe-c3] .item-level2[_ngcontent-qxe-c3] a[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .downs-levels[_ngcontent-qxe-c3] .level[_ngcontent-qxe-c3] .item-level4[_ngcontent-qxe-c3] a[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .downs-levels[_ngcontent-qxe-c3] .level[_ngcontent-qxe-c3] .item-level5[_ngcontent-qxe-c3] a[_ngcontent-qxe-c3] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%
+}
+
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .downs-levels[_ngcontent-qxe-c3] .level[_ngcontent-qxe-c3] .item-level2[_ngcontent-qxe-c3] .checked[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .downs-levels[_ngcontent-qxe-c3] .level[_ngcontent-qxe-c3] .item-level4[_ngcontent-qxe-c3] .checked[_ngcontent-qxe-c3],
+.page-container[_ngcontent-qxe-c3] #left-menu[_ngcontent-qxe-c3] .downs-levels[_ngcontent-qxe-c3] .level[_ngcontent-qxe-c3] .item-level5[_ngcontent-qxe-c3] .checked[_ngcontent-qxe-c3] {
+    color: #38d634
+}
+
+.support-ie-name[_ngcontent-qxe-c3] {
+    max-width: 90%;
+    overflow: hidden
+}
+
+.fa-chevron-right[_ngcontent-qxe-c3] {
+    font-size: 10px
+}
+
+
+.completer-dropdown[_ngcontent-qxe-c10] {
+    border-color: #ececec;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 2px;
+    width: 250px;
+    padding: 6px;
+    cursor: pointer;
+    z-index: 9999;
+    position: absolute;
+    margin-top: -6px;
+    background-color: #ffffff;
+}
+
+.completer-row[_ngcontent-qxe-c10] {
+    padding: 5px;
+    color: #000000;
+    margin-bottom: 4px;
+    clear: both;
+    display: inline-block;
+    width: 103%;
+}
+
+.completer-selected-row[_ngcontent-qxe-c10] {
+    background-color: lightblue;
+    color: #ffffff;
+}
+
+.completer-description[_ngcontent-qxe-c10] {
+    font-size: 14px;
+}
+
+.completer-image-default[_ngcontent-qxe-c10] {
+    width: 16px;
+    height: 16px;
+    
+}
+
+.completer-image-holder[_ngcontent-qxe-c10] {
+    float: left;
+    width: 10%;
+}
+
+.completer-item-text-image[_ngcontent-qxe-c10] {
+    float: right;
+    width: 90%;
+}
+
+
+.container-menu[_ngcontent-qxe-c11] {
+    height: 31px;
+    width: 100%
+}
+
+.sport-content.container[_ngcontent-qxe-c11] {
+    min-width: 930px
+}
+
+.sport-content[_ngcontent-qxe-c11] .resize-padding[_ngcontent-qxe-c11] {
+    padding-top: 10.5px !important;
+    padding-bottom: 10.5px !important
+}
+
+.sport-content[_ngcontent-qxe-c11] .resize-padding-mobile[_ngcontent-qxe-c11] {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important
+}
+
+.sport-header[_ngcontent-qxe-c11] .primary-heading-text[_ngcontent-qxe-c11] {
+    background-color: #fff;
+    padding: 5px 8px;
+    margin-bottom: 0;
+    font: bold 18px "Helvetica Neue", sans-serif;
+    color: #273a47;
+    text-decoration: none
+}
+
+.div-scroll[_ngcontent-qxe-c11] {
+    max-height: calc(100vh - 165px);
+    overflow-y: auto;
+    overflow-x: hidden
+}
+
+@media only screen and (max-width:1200px) {
+    .footer-wrapper[_ngcontent-qxe-c11] {
+        display: none
+    }
+}
+
+
+nav[_ngcontent-qxe-c12] {
+    padding: 0
+}
+
+nav[_ngcontent-qxe-c12] .navbar-nav[_ngcontent-qxe-c12] {
+    overflow-x: auto;
+    height: 100%
+}
+
+nav[_ngcontent-qxe-c12] .navbar-nav[_ngcontent-qxe-c12] li[_ngcontent-qxe-c12] {
+    white-space: nowrap;
+    padding: 0 10px
+}
+
+nav[_ngcontent-qxe-c12] .navbar-nav[_ngcontent-qxe-c12] li[_ngcontent-qxe-c12] .icon-sport-menu[_ngcontent-qxe-c12] i[_ngcontent-qxe-c12] {
+    vertical-align: middle
+}
+
+nav[_ngcontent-qxe-c12] .navbar-nav[_ngcontent-qxe-c12] li[_ngcontent-qxe-c12] .nav-link[_ngcontent-qxe-c12] {
+    display: -ms-flexbox;
+    display: flex
+}
+
+nav[_ngcontent-qxe-c12] .navbar-nav[_ngcontent-qxe-c12] li[_ngcontent-qxe-c12] a[_ngcontent-qxe-c12] {
+    display: inline-block;
+    font-size: 14px
+}
+
+nav[_ngcontent-qxe-c12] .navbar-nav[_ngcontent-qxe-c12] li[_ngcontent-qxe-c12] .nav-link-home[_ngcontent-qxe-c12] {
+    font-size: 13px
+}
+
+nav[_ngcontent-qxe-c12] .navbar-nav[_ngcontent-qxe-c12] li[_ngcontent-qxe-c12] .home-icon[_ngcontent-qxe-c12] {
+    position: relative;
+    top: 3px
+}
+
+nav[_ngcontent-qxe-c12] .navbar-nav[_ngcontent-qxe-c12] .game-group-icon[_ngcontent-qxe-c12] img[_ngcontent-qxe-c12] {
+    height: 16px
+}
+
+
+.container-fluid[_ngcontent-qxe-c7] {
+    padding-left: 10px
+}
+
+.links[_ngcontent-qxe-c7] {
+    margin: auto;
+    padding-top: 5px;
+    width: auto;
+    text-align: center
+}
+
+.links[_ngcontent-qxe-c7] span[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7] {
+    padding: 0
+}
+
+.links[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7] {
+    padding-right: 7px;
+    margin: 0 1px 0 0
+}
+
+.links[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7]+a[_ngcontent-qxe-c7] {
+    padding: 0 7px 0 9px
+}
+
+a[_ngcontent-qxe-c7] {
+    font-weight: 700;
+    outline: 0;
+    font-size: 12px
+}
+
+.footer-container[_ngcontent-qxe-c7] {
+    clear: both;
+    position: relative;
+    padding-top: 10px
+}
+
+.sscmw[_ngcontent-qxe-c7] {
+    padding-right: unset;
+    padding-left: unset
+}
+
+.block-social[_ngcontent-qxe-c7] {
+    text-align: center
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] {
+    display: inline-block;
+    width: auto;
+    padding: 0
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7]:after,
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7]:before {
+    content: "";
+    display: block
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7]:after {
+    clear: both
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] {
+    display: inline-block;
+    float: left;
+    width: auto;
+    min-height: 50px;
+    padding-left: 22px;
+    position: relative;
+    text-align: left
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] .icon-tel[_ngcontent-qxe-c7] {
+    width: 18px;
+    height: 35px;
+    background-size: 100%;
+    float: left;
+    margin-top: 16px
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] .whatsapp-items[_ngcontent-qxe-c7] {
+    float: left;
+    margin-left: 5px
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] .whatsapp-items[_ngcontent-qxe-c7] .whatsapp-item[_ngcontent-qxe-c7] {
+    margin: 4px;
+    height: 17px
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7] {
+    display: block;
+    padding: 0;
+    font-size: 14px;
+    margin: 14px 0
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7]:after,
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7]:before {
+    display: block;
+    content: ""
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7]:after {
+    clear: both
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7] .contact[_ngcontent-qxe-c7] {
+    width: 30px;
+    height: auto;
+    margin-top: -10px
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7] span[_ngcontent-qxe-c7] {
+    display: inline-block !important;
+    float: left;
+    margin-top: 0;
+    font-weight: 500
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7] span.icon[_ngcontent-qxe-c7] {
+    margin: 1px 8px 0 0
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7] span.icon-telegraph[_ngcontent-qxe-c7] {
+    width: 16px;
+    height: 16px;
+    background-size: 100%
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7] span.icon-mail[_ngcontent-qxe-c7] {
+    width: 16px;
+    height: 16px;
+    background-size: 100%;
+    margin: 5px 7px 0 0
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7] span.icon-skype[_ngcontent-qxe-c7] {
+    width: 13px;
+    height: 15px;
+    background-size: 100%;
+    margin: 1px 7px 0 0
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7] span.icon-instagram[_ngcontent-qxe-c7] {
+    width: 14px;
+    height: 15px;
+    background-size: 100%;
+    margin: 2px 7px 0 0
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7] span.icon-facebook[_ngcontent-qxe-c7] {
+    width: 15px;
+    height: 15px;
+    background-size: 100%;
+    margin: 2px 7px 0 0
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7] span.icon-youtube[_ngcontent-qxe-c7] {
+    width: 17px;
+    height: 15px;
+    background-size: 100%;
+    margin: 5px 7px 0 0
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] li[_ngcontent-qxe-c7] a[_ngcontent-qxe-c7] span.icon-betfair[_ngcontent-qxe-c7] {
+    width: 12px;
+    height: 15px;
+    background-size: 100%;
+    margin: -10px 10px 0 0
+}
+
+.block-social[_ngcontent-qxe-c7] ul[_ngcontent-qxe-c7] .footer-center-logo[_ngcontent-qxe-c7] {
+    width: 110px
+}
+
+@media only screen and (max-width:600px) {
+    .footer-center-logo[_ngcontent-qxe-c7] {
+        width: 100% !important;
+        display: -ms-flexbox !important;
+        display: flex !important;
+        -ms-flex-pack: center;
+        justify-content: center;
+        justify-items: center;
+        -ms-flex-align: center;
+        align-items: center;
+        padding-right: 96px
+    }
+}
+
+
+@media screen and (max-width:736px) {
+    .img[_ngcontent-qxe-c13] {
+        height: 150px
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:1024px) {
+    .img[_ngcontent-qxe-c13] {
+        height: 165px
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .img[_ngcontent-qxe-c13] {
+        height: 222px
+    }
+}
+
+.img[_ngcontent-qxe-c13] {
+    max-width: 100%
+}
+
+.item[_ngcontent-qxe-c13] {
+    text-align: center
+}
+
+carousel.slide-animated[_ngcontent-qxe-c13] slide.item[_ngcontent-qxe-c13] {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both
+}
+
+carousel.slide-animated[_ngcontent-qxe-c13] slide.item.active[_ngcontent-qxe-c13] {
+    width: 100%;
+    -webkit-animation-name: carouselSlideIn;
+    animation-name: carouselSlideIn
+}
+
+carousel.slide-animated[_ngcontent-qxe-c13] slide.item[_ngcontent-qxe-c13]:not(.active) {
+    display: table-cell;
+    -webkit-animation-name: carouselSlideOut;
+    animation-name: carouselSlideOut
+}
+
+@-webkit-keyframes carouselSlideIn {
+    0% {
+        transform: translateX(100%)
+    }
+
+    100% {
+        transform: translateX(0)
+    }
+}
+
+@keyframes carouselSlideIn {
+    0% {
+        transform: translateX(100%)
+    }
+
+    100% {
+        transform: translateX(0)
+    }
+}
+
+@-webkit-keyframes carouselSlideOut {
+    0% {
+        transform: translateX(0)
+    }
+
+    100% {
+        transform: translateX(-100%)
+    }
+}
+
+@keyframes carouselSlideOut {
+    0% {
+        transform: translateX(0)
+    }
+
+    100% {
+        transform: translateX(-100%)
+    }
+}
+
+
+.container-menu[_ngcontent-qxe-c14] {
+    height: 31px;
+    width: 100%
+}
+
+.highlight-content[_ngcontent-qxe-c14] {
+    padding-right: 15px;
+    padding-left: 15px
+}
+
+#sport-highlight[_ngcontent-qxe-c14] .header[_ngcontent-qxe-c14] {
+    padding: 5px 8px;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 0
+}
+
+#sport-highlight[_ngcontent-qxe-c14] .sport-highlight-content[_ngcontent-qxe-c14] {
+    border: 1px solid #c7d5e0
+}
+
+.header-color[_ngcontent-qxe-c14] {
+    font-size: 14px;
+    font-weight: 700;
+    padding: 10px;
+    margin-bottom: 9px
+}
+
+.sport-highlight-content[_ngcontent-qxe-c14] {
+    background-color: #fff;
+    position: relative;
+    width: 100%
+}
+
+.sport-highlight[_ngcontent-qxe-c14] {
+    background-color: #fff
+}
+
+.highlight-content-collapse[_ngcontent-qxe-c14] {
+    padding-right: 0
+}
+
+
+.mod-comingup[_ngcontent-qxe-c18] {
+    margin-bottom: 15px;
+    overflow: hidden;
+    background-color: #fff;
+    padding: 11px
+}
+
+.mod-comingup[_ngcontent-qxe-c18] .mod-header[_ngcontent-qxe-c18] {
+    padding-bottom: 5px;
+    padding-left: 8px;
+    font-weight: 800
+}
+
+.mod-comingup[_ngcontent-qxe-c18] .comingup-races-content[_ngcontent-qxe-c18] {
+    border-top: 1px solid #c7d5e0;
+    border-bottom: 1px solid #c7d5e0;
+    height: auto;
+    min-height: 12px;
+    overflow: hidden;
+    padding: 8px
+}
+
+.mod-comingup[_ngcontent-qxe-c18] .comingup-races-content[_ngcontent-qxe-c18] .comingup-links[_ngcontent-qxe-c18] li[_ngcontent-qxe-c18] {
+    border-left: 1px solid #2c7dbe;
+    color: #428bca;
+    display: block;
+    float: left;
+    font-weight: 700;
+    padding: 0 8px 0 10px;
+    text-decoration: none
+}
+
+.mod-comingup[_ngcontent-qxe-c18] .comingup-races-content[_ngcontent-qxe-c18] .comingup-links[_ngcontent-qxe-c18] li[_ngcontent-qxe-c18] a[_ngcontent-qxe-c18] {
+    color: #428bca
+}
+
+.mod-comingup[_ngcontent-qxe-c18] .comingup-races-content[_ngcontent-qxe-c18] .comingup-links[_ngcontent-qxe-c18] li[_ngcontent-qxe-c18]:first-child {
+    border-left: 0;
+    padding: 0 8px 0 2px
+}
+
+.mod-comingup[_ngcontent-qxe-c18] .comingup-races-content[_ngcontent-qxe-c18] span[_ngcontent-qxe-c18] {
+    display: block;
+    float: left;
+    color: #666
+}
+
+.mod-comingup[_ngcontent-qxe-c18] .comingup-races-content[_ngcontent-qxe-c18]:last-child {
+    border: none
+}
+
+
+[_nghost-qxe-c19] .nav-tabs[_ngcontent-qxe-c19] .nav-item.disabled[_ngcontent-qxe-c19] a.disabled[_ngcontent-qxe-c19] {
+    cursor: default
+}
+
+
+
+
+body,
+.input-group-sm>.form-control,
+.input-group-sm>.custom-select {
+    font-size: 14px;
+    font-family: Montserrat
+}
+
+.sprite-logos {
+   
+    background-position: 0;
+    background-repeat: no-repeat;
+    height: 30px !important
+}
+
+.football-ranger-inner {
+   
+}
+
+.meto-bg-hover-lay {
+    background-color: #fdd4dd
+}
+
+.meto-bg-hover-back {
+    background-color: #b8e0ff
+}
+
+.meto-bd-lay {
+    border-color: #f994a9
+}
+
+.meto-bd-red {
+    border-color: #b30000
+}
+
+.meto-bg-lay {
+    background-color: #faa9ba
+}
+
+.meto-bd-back {
+    border-color: #4db1ff
+}
+
+.meto-bd-menu {
+    border-color: #232323
+}
+
+.meto-bg-back {
+    background-color: #72bbef
+}
+
+.meto-bg-main {
+    background-color: #edf0f0
+}
+
+.meto-bg-menu {
+    background-color: #122b63
+}
+
+.meto-text-lay {
+    color: #f994a9
+}
+
+.meto-text-tab {
+    color: #fff
+}
+
+.meto-text-back {
+    color: #4db1ff
+}
+
+.meto-text-info {
+    color: #516472
+}
+
+.meto-bg-betslip,
+.meto-bg-sport {
+    background-color: #fff
+}
+
+.meto-bg-primary {
+    background-color: #3d60a4
+}
+
+.meto-text-black {
+    color: #0f0f0f
+}
+
+.meto-text-muted {
+    color: #7f7f7f
+}
+
+.meto-bg-exchange {
+    background-color: #edf0f0
+}
+
+.meto-icon-inplay {
+    color: #9bdb00
+}
+
+.meto-text-danger {
+    color: #b30000
+}
+
+.meto-text-inplay {
+    color: #090
+}
+
+.meto-text-primary {
+    color: #2789ce
+}
+
+.meto-bg-active-lay {
+    background-color: #fdd4dd
+}
+
+.meto-bg-fastbutton {
+    background-color: #c7d4e1
+}
+
+.meto-bg-hover-menu {
+    background-color: #21529e
+}
+
+.meto-text-leftmenu {
+    color: #2489d5
+}
+
+.meto-bg-active-back {
+    background-color: #b8e0ff
+}
+
+.meto-bg-header-title {
+    background-color: #179531
+}
+
+.meto-text-fastbutton {
+    color: #31507c
+}
+
+.meto-bg-leftmenu-hover {
+    background-color: #eee
+}
+
+.meto-bg-section-header {
+    background-color: #ffc21c
+}
+
+.in-play-button,
+.highlight-racing .title {
+    border-bottom: 3px solid #ffc21c
+}
+
+.meto-border-right-menu {
+    border-right: 1px solid #3d60a4
+}
+
+.meto-bg-sport-highlights-sporttab {
+    background-color: #6c91d7
+}
+
+.back {
+    background-color: #c9e6ef
+}
+
+.lay {
+    background-color: #f9e6ed
+}
+
+.mybets-body {
+    background-color: #fbfbfb
+}
+
+.container-bet-slip .nav-tabs .nav-link {
+    color: #000
+}
+
+.container-bet-slip .nav-link.active {
+    background: #fff;
+    color: #000
+}
+
+.open-bets .header-back {
+    background-color: #a6d8ff
+}
+
+.button-primary {
+    background: #1866a8
+}
+
+.bet-info {
+    color: #7e97a7
+}
+
+.btn-cancel {
+    background: #fff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#efefef));
+    background: -moz-linear-gradient(top, #ffffff, #efefef);
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#efefef);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#efefef);
+    border: 1px solid #c7d5e0;
+    color: #3b5160
+}
+
+.odds-ladder-right .arrow-btn {
+    border: 1px solid #ccc;
+    background-color: #eee
+}
+
+.top-navbar-container .navbar .navbar-nav .nav-item a {
+    color: #000
+}
+
+.links-container {
+    background-color: #fff
+}
+
+.event-meta .status-overlay {
+    background: #fff
+}
+
+@-webkit-keyframes flash {
+    10% {
+        background-color: #ff0
+    }
+}
+
+@keyframes flash {
+    10% {
+        background-color: #ff0
+    }
+}
+
+@-webkit-keyframes flash-virtual {
+    10% {
+        background-color: #ff0
+    }
+}
+
+@keyframes flash-virtual {
+    10% {
+        background-color: #ff0
+    }
+}
+
+.header-color {
+    color: #000000a8
+}
+
+#sport-highlight .header {
+    color: #fff
+}
+
+.top-panel {
+    background-color: #ffc21c
+}
+
+.container-announcement .marquee {
+    background-color: transparent;
+    color: #777
+}
+
+.container-announcement .comment {
+    color: #777
+}
+
+.fastbutton .fastbtn {
+    color: #011d49
+}
+
+.header-fancy,
+.header-boomaker {
+    color: #fff
+}
+
+.button-primary {
+    color: #000
+}
+
+.mybets-header {
+    background-image: linear-gradient(to bottom, #f2f2f2 0, #fafafa 100%)
+}
+
+.title-event {
+    background: #fff
+}
+
+.footer-container a {
+    color: #1e1e1e
+}
+
+.block-social ul li a {
+    color: #000
+}
+
+.block-social ul li a .icon-mail {
+  
+}
+
+.login-popup-content {
+   
+}
+
+.icon-tel {
+   
+}
+
+.icon-telegraph {
+    
+}
+
+.icon-instagram {
+   
+}
+
+.icon-facebook {
+   
+}
+
+.icon-youtube {
+    
+}
+
+.icon-mail {
+   
+}
+
+.announcement-icon {
+   
+}
+
+.pending-stake {
+    color: #333;
+    font-size: 12px
+}
+
+.cell-back.selected {
+    background-color: #2797e6
+}
+
+.cell-lay.selected {
+    background-color: #f87c96
+}
+
+@keyframes flash {
+    10% {
+        background-color: #ff0
+    }
+}
+
+.cell-odds.cell-lay {
+    background-color: #fbd7e5
+}
+
+.cell-odds.cell-back {
+    background-color: #9ecddf
+}
+
+@-webkit-keyframes flash {
+    10% {
+        background-color: #ff0
+    }
+}
+
+@-webkit-keyframes flash-virtual {
+    10% {
+        background-color: #ff0
+    }
+}
+
+@keyframes flash-virtual {
+    10% {
+        background-color: #ff0
+    }
+}
+
+.content-404 {
+    background-color: #edf0f0
+}
+
+.layRow {
+    background: #ffeff5 !important;
+    background: -moz-linear-gradient(top, #ffeff5 0%, #ffffff 100%) !important;
+    background: -webkit-linear-gradient(top, #ffeff5 0%, #ffffff 100%) !important;
+    background: linear-gradient(to bottom, #ffeff5 0%, #ffffff 100%) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffeff5', endColorstr='#ffffff', GradientType=0) !important
+}
+
+.backRow {
+    background: #e5f2f9 !important;
+    background: -moz-linear-gradient(top, #e5f2f9 0%, #ffffff 100%) !important;
+    background: -webkit-linear-gradient(top, #e5f2f9 0%, #ffffff 100%) !important;
+    background: linear-gradient(to bottom, #e5f2f9 0%, #ffffff 100%) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e5f2f9', endColorstr='#ffffff', GradientType=0) !important
+}
+
+.check-box-color {
+    background-color: #ffc21c
+}
+
+.sport-header {}
+
+.chk-average-odds input:checked~.checkmark,
+.open-bets-header-bg {
+    background-color: #ffc21d
+}
+
+.open-bets-header {
+    border-bottom: 2px solid #ffc21d
+}
+
+.login-panel-container #login-btn-popup {
+    background-color: #fff;
+    color: #000
+}
+
+.login-panel-container .form-control {
+    color: #fff
+}
+
+.login-panel-container .eyes-icon {
+    color: #fff
+}
+
+.login-panel-container input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+    -webkit-text-fill-color: #fff;
+    transition: background-color 5000s ease-in-out 0s
+}
+
+.change-pass-content .mod-login .btn-skip {
+    background-color: #999
+}
+
+.cta-primary {
+    background-color: #ffc21d
+}
+
+.mod-login .btn-change-password {
+    color: #1e1e1e
+}
+
+.sport-header .header {
+    border-left: 8px solid #ffc21c
+}
+
+.btn-report-search,
+.btn-report-search:focus {
+    background-color: #ffc21d;
+    border-color: #ffc21d
+}
+
+.theme-template2-jio .top-panel {
+    background-color: #179531
+}
+
+.theme-template2-jio .chk-average-odds input:checked~.checkmark,
+.open-bets-header-bg {
+    background-color: #179531
+}
+
+.theme-template2-jio .container-bet-slip .nav-tabs .nav-link,
+.theme-template2-jio .container-mybets .nav-tabs .nav-link {
+    color: #fff
+}
+
+.theme-template2-jio .top-panel .nav-right .profit-group .balance .bal-val.ellipsis-text,
+.theme-template2-jio .top-panel .nav-right .profit-group .balance .fa-caret-down,
+.theme-template2-jio .top-panel .nav-right .profit-group .balance .fa-dollar-sign,
+.theme-template2-jio .container-mybets .nav-tabs .nav-link {
+    color: #fff !important
+}
+
+.top-panel .nav-right .profit-group .balance .title,
+.top-panel .nav-right .profit-group .balance .bal-val,
+.top-panel .nav-right .profit-group .liability .title,
+.top-panel .nav-right .account .title,
+.theme-template2-jio .time-contain {}
+
+.theme-template2-jio .edit-stake-header {
+    background-color: #617766;
+    color: #fff
+}
+
+.theme-template2-jio .activities-container,
+.theme-template2-jio .account-statement-container,
+.my-bet-container {
+    background-color: #f2e3a8 !important;
+    background-image: none !important
+}
+
+.theme-template2-jio .top-panel .nav-right .profit-group {
+    background: rgba(52, 58, 64, .45) !important
+}
+
+.theme-template2-jio .top-panel .nav-right .account .title i {
+    color: #ffc21d !important
+}
+
+.theme-template2-jio .top-panel .nav-right .account:hover:not(.dropdown-balance),
+.theme-template2-jio .top-panel .nav-right .account:focus:not(.dropdown-balance) {
+    background-color: #617766 !important
+}
+
+.theme-template2-betxhub .left-menu-icon {
+    background: #ffc21d
+}
+
+@media only screen and (max-width:992px) {
+    .login-popup-content {
+       
+        background-size: cover !important;
+        height: 410px !important
+    }
+}
+
+.header-content-info {
+    color: #fff
+}
+
+.top-panel .menu-icon {
+    background: #ffc21d
+}
+
+.top-panel .nav-left .menu-icon a .fa-home {
+    color: #179531
+}
+
+.top-container .sport-container {
+    background-color: #ffc21d
+}
+
+.top-container .sport-container .items-10 .menu-item {
+    border-left: 1px solid #d09c10
+}
+
+.mobile-version {
+    color: #000
+}
+
+.collapse-icon {
+    background-color: #179531 !important
+}
+
+.top-container .sport-container {
+    background-color: #ffc21d
+}
+
+.top-container .sport-container .items-10 .menu-item {
+    border-left: 1px solid #d09c10
+}
+
+.page-container #left-menu .item-level0.active,
+.page-container #left-menu .item-level3.active,
+.page-container #left-menu .item-level4.active,
+.page-container #left-menu .item-level5.active,
+.page-container #left-menu .up-levels .item-level1.active,
+.page-container #left-menu .up-levels .item-level2.active,
+.page-container #left-menu .downs-levels .item-level1.active,
+.page-container #left-menu .downs-levels .item-level2.active {
+    background: linear-gradient(90deg, rgba(255, 194, 29, 1) 0%, rgba(255, 255, 255, 0) 100%);
+    font-weight: 700
+}
+
+.container-main .left-menu,
+.page-container {
+    background-image: linear-gradient(132deg, #eae7d3 8.33%, #F3F0DC 8.33%, #F3F0DC 50%, #eae7d3 50%, #eae7d3 58.33%, #F3F0DC 58.33%, #F3F0DC 100%);
+    background-size: 10.35px 10px
+}
+
+.sport-list-menu {
+    background-color: #232323
+}
+
+.sport-list-menu .navbar-nav li .active {
+    background-color: #a6a9b8
+}
+
+.page-container #left-menu .item-level0,
+.page-container #left-menu .up-levels .item-level1,
+.page-container #left-menu .up-levels .item-level2 {
+    background: #cacaca
+}
+
+.top-navbar-container .selected-tab {
+    border-bottom: 5px solid #ffc21c
+}
+
+.sport-highlight .nav-tabs {
+    border-bottom: 3px solid #ffc21c
+}
+
+.sport-highlight .nav-tabs .nav-link {
+    color: #fff;
+    background-color: #a6a9b8
+}
+
+.sport-highlight .nav-tabs .nav-link.active {
+    color: #000;
+    background-color: #ffc21c
+}
+
+.edit-stake-header {
+    color: #000;
+    background-color: #d09c10
+}
+
+.sport-header .header {
+    color: #333
+}
+
+.sport-highlight-icon {
+   
+    background-repeat: no-repeat;
+    width: 27px;
+    height: 33px;
+    position: absolute;
+    left: 20px
+}
+
+.sportName {
+    color: #000 !important
+}
+
+.mod-comingup .mod-header {
+    color: #000
+}
+
+.top-panel .nav-right .account:hover,
+.top-panel .nav-right .account:focus {
+    background-color: #d09c10
+}
+
+.sport-highlight .sport-highlight-content .header-color {
+    margin-left: 46px;
+    color: #000
+}
+
+.sport-groups ul>li {
+    background-color: #a6a9b8
+}
+
+.sport-groups ul>li.active {
+    background-color: #ffc21c
+}
+
+.all-games .all-games-header {
+    background-color: #ffc21d
+}
+
+.text-collapse {
+    color: #ffc107
+}
+
+.container-mybets .nav-link .nav-tabs .nav-link {
+    color: #000
+}
+
+.pl-toggle.custom-control-input:checked~.pl-toggle.custom-control-label::before {
+    color: #fff;
+    border-color: #ffc21d;
+    background-color: #ffc21d
+}
+
+.live-center-container {
+    display: block
+}
+
+.live-center-container .popup {
+    background-color: #d09c10
+}
+
+.top-panel .nav-right .account:hover:not(.dropdown-balance),
+.top-panel .nav-right .account:focus:not(.dropdown-balance) {
+    box-shadow: 0 2px 40px rgba(0, 0, 0, .4) inset
+}
+
+.sport-list-menu .navbar-nav li a {
+    color: #fff
+}
+
+.main-content-wrapper .notification {
+    background: #f3f0dc !important
+}
+
+.page-container #left-menu {
+    max-height: calc(100vh - 112px)
+}
+
+
+.container-event-info[_ngcontent-qxe-c16] {
+    padding-bottom: 0;
+    background-color: #fff;
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.links-container[_ngcontent-qxe-c16] {
+    overflow: hidden;
+    padding: 8px;
+    line-height: normal;
+    border-top: 1px solid #e0e6e6;
+    font-size: 12px
+}
+
+a[_ngcontent-qxe-c16] {
+    color: #2789ce
+}
+
+.links-more-inplay[_ngcontent-qxe-c16] {
+    float: left
+}
+
+.links-more-event[_ngcontent-qxe-c16] {
+    float: right
+}
+
+.event-info[_ngcontent-qxe-c16] {
+    display: -ms-inline-flexbox;
+    display: inline-flex
+}
+
+.text-center[_ngcontent-qxe-c16] {
+    text-align: center;
+    padding: 14px;
+    font-weight: 700
+}
+
+.text-bold[_ngcontent-qxe-c16] {
+    font-weight: 700
+}
+
+.highlight-container[_ngcontent-qxe-c16] .sport[_ngcontent-qxe-c16] {
+    width: 100%;
+    margin-right: 10px;
+    margin-left: 10px
+}
+
+h2.sport-name[_ngcontent-qxe-c16] {
+    background: #588db6;
+    padding: 5px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff
+}
+
+.competiton[_ngcontent-qxe-c16] {
+    width: 100%
+}
+
+.runner-x[_ngcontent-qxe-c16] {
+    text-align: center;
+    -ms-flex: 1;
+    flex: 1
+}
+
+.table.table-odds[_ngcontent-qxe-c16] th[_ngcontent-qxe-c16] {
+    border: none;
+    padding: 5px
+}
+
+.selections-count[_ngcontent-qxe-c16] {
+    width: 55%
+}
+
+.td-odds[_ngcontent-qxe-c16] {
+    border: none;
+    padding: 0;
+    margin-top: 14px
+}
+
+.flex-layout[_ngcontent-qxe-c16] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: end;
+    justify-content: flex-end
+}
+
+.right-runner-name[_ngcontent-qxe-c16] {
+    width: 45%;
+    display: -ms-flexbox;
+    display: flex;
+    max-width: 500px;
+    -ms-flex-pack: end;
+    justify-content: flex-end
+}
+
+.runner-size-3[_ngcontent-qxe-c16] {
+    max-width: 500px
+}
+
+.runner-size-2[_ngcontent-qxe-c16] {
+    max-width: 450px
+}
+
+.sport-header[_ngcontent-qxe-c16] {
+    padding-top: 15px
+}
+
+.sport-header[_ngcontent-qxe-c16] .header[_ngcontent-qxe-c16] {
+    padding: 5px;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 0
+}
+
+@media only screen and (min-width:768px) {
+    .right-runner-name[_ngcontent-qxe-c16] {
+        width: 450px
+    }
+
+    .container-event-info[_ngcontent-qxe-c16] {
+        min-width: calc(100vw - 40px)
+    }
+}
+
+@media only screen and (min-width:1200px) {
+    .right-runner-name[_ngcontent-qxe-c16] {
+        width: 400px
+    }
+
+    .container-event-info[_ngcontent-qxe-c16] {
+        min-width: auto
+    }
+}
+
+
+ul[_ngcontent-qxe-c20] {
+    margin: 0;
+    padding: 0
+}
+
+li[_ngcontent-qxe-c20] {
+    list-style: none
+}
+
+.vevent[_ngcontent-qxe-c20] {
+    border-top: 1px solid #e0e6e6;
+    padding-right: 4px
+}
+
+.market-container[_ngcontent-qxe-c20] {
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 4px
+}
+
+.event-start-time[_ngcontent-qxe-c20] {
+    font-weight: 400;
+    color: #666;
+    margin-left: 8px
+}
+
+.event-meta-size-3[_ngcontent-qxe-c20] {
+    width: 100%
+}
+
+.event-meta[_ngcontent-qxe-c20] {
+    float: right
+}
+
+.event-meta[_ngcontent-qxe-c20] ul[_ngcontent-qxe-c20] li[_ngcontent-qxe-c20] {
+    -ms-flex: 1;
+    flex: 1;
+    float: left;
+    margin-left: 1px
+}
+
+.event-meta[_ngcontent-qxe-c20] ul[_ngcontent-qxe-c20] li[_ngcontent-qxe-c20]:first-child {
+    margin-left: 0;
+    line-height: 0
+}
+
+.event-meta[_ngcontent-qxe-c20] ul[_ngcontent-qxe-c20] li[_ngcontent-qxe-c20] .lay-cell[_ngcontent-qxe-c20] {
+    float: left;
+    margin-left: 1px;
+    line-height: 0
+}
+
+.event-meta[_ngcontent-qxe-c20] .prices-list[_ngcontent-qxe-c20] {
+    position: relative;
+    float: left
+}
+
+.noselection-btn[_ngcontent-qxe-c20] {
+    cursor: initial;
+    outline: 0
+}
+
+.description[_ngcontent-qxe-c20] span[_ngcontent-qxe-c20] {
+    padding-right: 2px
+}
+
+.market-details[_ngcontent-qxe-c20] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 50px
+}
+
+.market-link[_ngcontent-qxe-c20] {
+    -ms-flex: 1;
+    flex: 1
+}
+
+.flex-layout[_ngcontent-qxe-c20] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: end;
+    justify-content: flex-end
+}
+
+.right-runner-name[_ngcontent-qxe-c20] {
+    width: 45%;
+    display: -ms-flexbox;
+    display: flex;
+    max-width: 500px;
+    -ms-flex-pack: end;
+    justify-content: flex-end
+}
+
+.runner-size-3[_ngcontent-qxe-c20] {
+    max-width: 500px
+}
+
+.runner-x[_ngcontent-qxe-c20] {
+    text-align: center;
+    -ms-flex: 1;
+    flex: 1
+}
+
+.competiton[_ngcontent-qxe-c20] {
+    width: 100%
+}
+
+@media only screen and (min-width:768px) {
+
+    .group-live-icon[_ngcontent-qxe-c20],
+    .right-runner-name[_ngcontent-qxe-c20] {
+        width: 450px
+    }
+}
+
+@media only screen and (min-width:1200px) {
+    .right-runner-name[_ngcontent-qxe-c20] {
+        width: 400px
+    }
+
+    .container-event-info[_ngcontent-qxe-c20] {
+        min-width: auto
+    }
+
+    .event-meta[_ngcontent-qxe-c20] {
+        width: 400px
+    }
+
+    .group-live-icon[_ngcontent-qxe-c20] {
+        width: 450px
+    }
+}
+
+.table.table-odds[_ngcontent-qxe-c20] th[_ngcontent-qxe-c20] {
+    border: none;
+    padding: 5px
+}
+
+.td-odds[_ngcontent-qxe-c20] {
+    border: none;
+    padding: 0;
+    margin-top: 14px
+}
+
+
+.modal-body[_ngcontent-qxe-c22] {
+    font-size: 14px
+}
+
+.modal-body[_ngcontent-qxe-c22] .text-danger[_ngcontent-qxe-c22] {
+    font-size: 12px
+}
+
+
+.container-event-info[_ngcontent-qxe-c21] {
+    padding-top: 10px;
+    padding-bottom: 0;
+    font-size: 12px
+}
+
+.event-info[_ngcontent-qxe-c21] {
+    display: -ms-inline-flexbox;
+    display: inline-flex
+}
+
+.group-icon[_ngcontent-qxe-c21] {
+    padding-left: 4px
+}
+
+.text-center[_ngcontent-qxe-c21] {
+    text-align: center
+}
+
+.text-bold[_ngcontent-qxe-c21] {
+    font-weight: 700
+}
+
+.highlight-container[_ngcontent-qxe-c21] .sport[_ngcontent-qxe-c21] {
+    width: 100%;
+    margin-right: 10px;
+    margin-left: 10px
+}
+
+h2.sport-name[_ngcontent-qxe-c21] {
+    background: #588db6;
+    padding: 5px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff
+}
+
+.competiton[_ngcontent-qxe-c21] {
+    width: 100%
+}
+
+.runner-x[_ngcontent-qxe-c21] {
+    text-align: center
+}
+
+.table.table-odds[_ngcontent-qxe-c21] th[_ngcontent-qxe-c21] {
+    border: none;
+    padding: 5px
+}
+
+.selections-count[_ngcontent-qxe-c21] {
+    width: 55%
+}
+
+.td-odds[_ngcontent-qxe-c21] {
+    border: none;
+    padding-top: 5px;
+    margin-top: 8px
+}
+
+div[_ngcontent-qxe-c21],
+ul[_ngcontent-qxe-c21] {
+    margin: 0;
+    padding: 0
+}
+
+li[_ngcontent-qxe-c21] {
+    list-style: none
+}
+
+.vevent[_ngcontent-qxe-c21] {
+    border-top: 1px solid #e0e6e6;
+    padding-right: 4px
+}
+
+.market-container[_ngcontent-qxe-c21] {
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 4px
+}
+
+.icon-status[_ngcontent-qxe-c21] {
+    padding-left: 8px;
+    padding-right: 5px
+}
+
+a[_ngcontent-qxe-c21] {
+    color: #2789ce !important
+}
+
+.score[_ngcontent-qxe-c21] {
+    color: #2789ce
+}
+
+.event-start-time[_ngcontent-qxe-c21] {
+    font-weight: 400;
+    color: #666;
+    margin-left: 8px
+}
+
+.event-meta-size-2[_ngcontent-qxe-c21],
+.event-meta-size-3[_ngcontent-qxe-c21] {
+    width: 100%
+}
+
+.event-meta[_ngcontent-qxe-c21] {
+    float: right
+}
+
+.event-meta[_ngcontent-qxe-c21] ul[_ngcontent-qxe-c21] li[_ngcontent-qxe-c21] {
+    -ms-flex: 1;
+    flex: 1;
+    float: left;
+    margin-left: 1px
+}
+
+.event-meta[_ngcontent-qxe-c21] ul[_ngcontent-qxe-c21] li[_ngcontent-qxe-c21]:first-child {
+    margin-left: 0;
+    line-height: 0
+}
+
+.event-meta[_ngcontent-qxe-c21] ul[_ngcontent-qxe-c21] li[_ngcontent-qxe-c21] .lay-cell[_ngcontent-qxe-c21] {
+    float: left;
+    margin-left: 1px;
+    line-height: 0
+}
+
+.event-meta[_ngcontent-qxe-c21] .prices-list[_ngcontent-qxe-c21] {
+    position: relative;
+    float: left
+}
+
+.event-meta[_ngcontent-qxe-c21] .status-overlay[_ngcontent-qxe-c21] {
+    color: #b30000;
+    border: 2px solid #b30000;
+    opacity: .7;
+    filter: alpha(opacity=70);
+    display: block;
+    position: absolute;
+    text-align: center;
+    line-height: 45px;
+    left: 0;
+    right: 0
+}
+
+.back-only[_ngcontent-qxe-c21] .event-meta[_ngcontent-qxe-c21] .status-overlay[_ngcontent-qxe-c21] {
+    font-size: 16px
+}
+
+.noselection-btn[_ngcontent-qxe-c21] {
+    cursor: initial;
+    outline: 0
+}
+
+.meto-text-inplay[_ngcontent-qxe-c21] {
+    font-weight: 700
+}
+
+.description[_ngcontent-qxe-c21] span[_ngcontent-qxe-c21] {
+    padding-right: 2px
+}
+
+.disable-odds[_ngcontent-qxe-c21] {
+    pointer-events: none;
+    opacity: .6;
+    cursor: not-allowed
+}
+
+.flex-layout[_ngcontent-qxe-c21] {
+    margin-right: 3px;
+    display: -ms-flexbox;
+    display: flex
+}
+
+.text-inplay[_ngcontent-qxe-c21] {
+    color: #39d534;
+    font-weight: 700;
+    list-style-type: disc;
+    margin-left: 8px
+}
+
+.live-score[_ngcontent-qxe-c21] {
+    color: #39d534;
+    font-weight: 700
+}
+
+.market-details[_ngcontent-qxe-c21] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 50px
+}
+
+.selection-btn[disabled][_ngcontent-qxe-c21] {
+    cursor: default
+}
+
+.market-link[_ngcontent-qxe-c21] {
+    -ms-flex: 1;
+    flex: 1
+}
+
+@media only screen and (min-width:768px) {
+
+    .group-live-icon[_ngcontent-qxe-c21],
+    .right-runner-name[_ngcontent-qxe-c21] {
+        width: 450px
+    }
+}
+
+@media only screen and (min-width:1200px) {
+    .event-meta[_ngcontent-qxe-c21] {
+        width: 400px
+    }
+
+    .group-live-icon[_ngcontent-qxe-c21] {
+        width: 450px
+    }
+}
+
+
+.sportName[_ngcontent-qxe-c15] {
+    float: left
+}
+
+.in-play-button[_ngcontent-qxe-c15] {
+    width: 100%
+}
+
+.sport-highlight-content[_ngcontent-qxe-c15] {
+    background: #fff;
+    padding-bottom: 10px
+}
+
+.arrow[_ngcontent-qxe-c15] {
+    margin-left: 10px;
+    float: right
+}
+
+.chart[_ngcontent-qxe-c15] {
+    display: block;
+    float: left;
+    width: 16px;
+    height: 16px;
+    margin: 7px 8px 0
+}
+
+.comps[_ngcontent-qxe-c15] {
+    line-height: 24px
+}
+
+.runner-names-heading[_ngcontent-qxe-c15] {
+    text-align: right;
+    float: right
+}
+
+div[_ngcontent-qxe-c15] {
+    text-decoration: none
+}
+
+.runner-names[_ngcontent-qxe-c15] span[_ngcontent-qxe-c15] {
+    width: 108px;
+    display: block;
+    float: left;
+    text-align: center;
+    font-weight: 700
+}
+
+.coupon-container[_ngcontent-qxe-c15] {
+    line-height: 34px;
+    clear: both
+}
+
+.list-coupon[_ngcontent-qxe-c15] {
+    clear: both
+}
+
+.market-container[_ngcontent-qxe-c15] {
+    overflow: hidden;
+    height: auto;
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 4px
+}
+
+.market-link[_ngcontent-qxe-c15] {
+    -ms-flex: 1;
+    flex: 1
+}
+
+.market-details[_ngcontent-qxe-c15] {
+    float: left;
+    margin-top: 14px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.market-info[_ngcontent-qxe-c15] {
+    float: left
+}
+
+.inplay[_ngcontent-qxe-c15] {
+    color: #39d534 !important;
+    font-weight: 700 !important;
+    margin-right: 5px
+}
+
+.start-time[_ngcontent-qxe-c15] {
+    font-weight: initial;
+    float: left;
+    color: #273a47
+}
+
+.group-live-icon[_ngcontent-qxe-c15] {
+    float: right
+}
+
+.live-icon-left[_ngcontent-qxe-c15] {
+    float: left !important
+}
+
+.event-meta[_ngcontent-qxe-c15],
+.event-meta[_ngcontent-qxe-c15]>.prices-list[_ngcontent-qxe-c15],
+.prices-list[_ngcontent-qxe-c15] {
+    position: relative;
+    float: left
+}
+
+.prices-list[_ngcontent-qxe-c15] {
+    position: relative
+}
+
+.selection-btn[_ngcontent-qxe-c15] {
+    -webkit-filter: none;
+    filter: none;
+    border: 0;
+    color: #273a47;
+    min-height: 30px;
+    min-width: 65.49px;
+    font-weight: 700;
+    zoom: 1;
+    overflow: visible
+}
+
+.back[_ngcontent-qxe-c15] {
+    background-color: #72bbef;
+    border-right: 0
+}
+
+.lay-cell[_ngcontent-qxe-c15] {
+    float: left;
+    margin-left: 1px;
+    line-height: 0
+}
+
+.lay[_ngcontent-qxe-c15] {
+    background-color: #f994a9
+}
+
+.sep[_ngcontent-qxe-c15] {
+    margin: 0 2px
+}
+
+.vevent[_ngcontent-qxe-c15]:hover {
+    background-color: #eef2f3
+}
+
+.inplay.stars[_ngcontent-qxe-c15]:hover,
+.today.stars[_ngcontent-qxe-c15]:hover {
+    background-position: -22px -92px
+}
+
+div[_ngcontent-qxe-c15],
+ul[_ngcontent-qxe-c15] {
+    margin: 0;
+    padding: 0
+}
+
+li[_ngcontent-qxe-c15] {
+    list-style: none
+}
+
+.vevent[_ngcontent-qxe-c15] {
+    border-top: 1px solid #e0e6e6;
+    padding-right: 4px
+}
+
+.icon-status[_ngcontent-qxe-c15] {
+    padding-left: 10px;
+    padding-right: 5px
+}
+
+.no-icon[_ngcontent-qxe-c15] {
+    display: block;
+    float: left;
+    width: 12px;
+    height: 13px;
+    margin: 5px 0 0 8px
+}
+
+.event-link[_ngcontent-qxe-c15] {
+    padding: 0 0 0 4px;
+    display: block
+}
+
+.event-meta[_ngcontent-qxe-c15] {
+    float: right
+}
+
+.event-meta[_ngcontent-qxe-c15] ul[_ngcontent-qxe-c15] li[_ngcontent-qxe-c15]:first-child {
+    margin-left: 0;
+    margin-bottom: -7px;
+    line-height: 0
+}
+
+.event-meta[_ngcontent-qxe-c15] ul[_ngcontent-qxe-c15] li[_ngcontent-qxe-c15] {
+    float: left;
+    margin-left: 1px
+}
+
+.event-meta[_ngcontent-qxe-c15] ul[_ngcontent-qxe-c15] li[_ngcontent-qxe-c15] .lay-cell[_ngcontent-qxe-c15] {
+    float: left;
+    margin-left: 1px;
+    line-height: 0
+}
+
+.event-meta[_ngcontent-qxe-c15] .prices-list[_ngcontent-qxe-c15] {
+    position: relative;
+    float: left
+}
+
+.status-overlay[_ngcontent-qxe-c15] {
+    border: 2px solid #b30000;
+    background: #fff;
+    opacity: .7;
+    filter: alpha(opacity=70);
+    display: block;
+    position: absolute;
+    text-align: center;
+    line-height: 36px;
+    left: 0;
+    right: 0;
+    margin: 5px 0 0
+}
+
+.back-only[_ngcontent-qxe-c15] .event-meta[_ngcontent-qxe-c15] .status-overlay[_ngcontent-qxe-c15] {
+    font-size: 16px
+}
+
+.price[_ngcontent-qxe-c15] {
+    font-weight: 700;
+    display: block
+}
+
+.group-icon[_ngcontent-qxe-c15] {
+    padding-left: 4px
+}
+
+.meto-text-inplay[_ngcontent-qxe-c15] {
+    font-weight: 700
+}
+
+.description[_ngcontent-qxe-c15] span[_ngcontent-qxe-c15] {
+    padding-right: 2px
+}
+
+.suspended-relative[_ngcontent-qxe-c15] {
+    position: relative
+}
+
+.view-details[_ngcontent-qxe-c15] {
+    margin-left: 14px
+}
+
+.add-glof[_ngcontent-qxe-c15] {
+    padding-right: 19px;
+    float: right;
+    padding-top: 4px
+}
+
+.glof-name[_ngcontent-qxe-c15] {
+    font-weight: 600;
+    padding: 5px;
+    margin-bottom: 5px;
+    font-size: 13px;
+    margin-left: 15px;
+    width: 50%
+}
+
+.back-cell[_ngcontent-qxe-c15] {
+    margin-right: 3px;
+    margin-top: 5px;
+    cursor: default
+}
+
+.lay-cell[_ngcontent-qxe-c15] {
+    margin-right: 7px;
+    margin-top: 5px;
+    cursor: default
+}
+
+.disable-odds[_ngcontent-qxe-c15] {
+    pointer-events: none;
+    opacity: .6;
+    cursor: not-allowed
+}
+
+.runner-names-heading[_ngcontent-qxe-c15] span[_ngcontent-qxe-c15] {
+    width: 110px;
+    display: block;
+    float: left;
+    text-align: center
+}
+
+.runner2[_ngcontent-qxe-c15] {
+    margin-right: 31px
+}
+
+.runner1[_ngcontent-qxe-c15] {
+    margin-right: 52px
+}
+
+.runner0[_ngcontent-qxe-c15] {
+    margin-right: 54px
+}
+
+.text-center[_ngcontent-qxe-c15] {
+    padding: 14px;
+    font-weight: 700;
+    background-color: #fff
+}
+
+.sport-header[_ngcontent-qxe-c15] {
+    padding: 17px
+}
+
+.sport-header[_ngcontent-qxe-c15] .header[_ngcontent-qxe-c15] {
+    color: #333;
+    padding: 5px;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 0
+}
+
+.live-market[_ngcontent-qxe-c15] {
+    -ms-flex: 1;
+    flex: 1
+}
+
+
+
+.game-container {
+    margin-top: -15px
+}
+
+.game-container .room-tab {
+    background-color: #232323
+}
+
+.game-container .room-tab ul li {
+    float: left;
+    height: 35px;
+    line-height: 35px;
+    font-weight: 700;
+    text-align: center;
+    width: 150px
+}
+
+.game-container .room-tab ul li a {
+    display: block;
+    color: #fff
+}
+
+.game-container .room-tab ul li a.active-room {
+    color: #fff;
+    background-color: #000
+}
+
+.top-container .sport-container .items-10 {
+    display: -ms-flexbox;
+    display: flex;
+    overflow-x: auto
+}
+
+.top-container .sport-container .items-10 .menu-item {
+    line-height: 38px;
+    padding: 0 6px;
+    white-space: nowrap
+}
+
+.top-container .sport-container .items-10 .menu-item .menu-item-link {
+    display: block;
+    padding: 0 5px;
+    margin: 0 5px
+}
+
+.top-container .sport-container .items-10 .menu-item:first-child {
+    border-left: none
+}
+
+.top-container .sport-container .items-10 .active {
+    background-color: #a6a9b8;
+    color: #fff
+}
+
+.top-container .sport-container .items-10 .top {
+    display: table;
+    margin: 0 auto;
+    position: relative;
+    min-width: 950px
+}
+
+.top-container .banner img {
+    width: 100%;
+    height: auto
+}
+
+.top-container .menu-product {
+    margin-top: 10px
+}
+
+.top-container .menu-product .Item {
+    float: left;
+    padding: 5px 5px 0 0;
+    background: 0 0
+}
+
+.top-container .menu-product .Item a {
+    text-align: center;
+    color: #fff
+}
+
+.top-container .menu-product .Item a img {
+    width: 100%;
+    height: auto
+}
+
+.top-container .menu-product .Item a p {
+    margin: 0;
+    background-color: #000
+}
+
+li {
+    list-style: none
+}
+
+a,
+a:hover,
+a:visited {
+    cursor: pointer;
+    text-decoration: none
+}
+
+
+.top-container[_ngcontent-qxe-c24] .banner[_ngcontent-qxe-c24] {
+    margin-bottom: 10px
+}
+
+.top-container[_ngcontent-qxe-c24] .banner[_ngcontent-qxe-c24] img[_ngcontent-qxe-c24] {
+    width: 100%;
+    height: auto
+}
+
+.top-container[_ngcontent-qxe-c24] .card-game[_ngcontent-qxe-c24] .card-game-item[_ngcontent-qxe-c24] {
+    float: left;
+    padding: 5px 5px 0 0;
+    background: 0 0
+}
+
+.top-container[_ngcontent-qxe-c24] .card-game[_ngcontent-qxe-c24] .card-game-item[_ngcontent-qxe-c24] a[_ngcontent-qxe-c24] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    text-decoration: none
+}
+
+.top-container[_ngcontent-qxe-c24] .card-game[_ngcontent-qxe-c24] .card-game-item[_ngcontent-qxe-c24] a[_ngcontent-qxe-c24] .img-wrap[_ngcontent-qxe-c24] {
+    -ms-flex: 10;
+    flex: 10;
+    position: relative;
+    padding-bottom: 50%
+}
+
+.top-container[_ngcontent-qxe-c24] .card-game[_ngcontent-qxe-c24] .card-game-item[_ngcontent-qxe-c24] a[_ngcontent-qxe-c24] .img-wrap[_ngcontent-qxe-c24] img[_ngcontent-qxe-c24] {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    -o-object-fit: cover;
+    object-fit: cover
+}
+
+.top-container[_ngcontent-qxe-c24] .card-game[_ngcontent-qxe-c24] .card-game-item[_ngcontent-qxe-c24] a[_ngcontent-qxe-c24] .name[_ngcontent-qxe-c24] {
+    display: block;
+    min-height: 35px;
+    line-height: 35px;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    color: #fff;
+    background-color: #1a1a1a
+}
+
+
+
+.lottery-container[_ngcontent-qxe-c25] .lottery-game-menu[_ngcontent-qxe-c25] {
+    background-color: #232323
+}
+
+.lottery-container[_ngcontent-qxe-c25] .lottery-game-menu[_ngcontent-qxe-c25] nav[_ngcontent-qxe-c25] {
+    padding: 0
+}
+
+.lottery-container[_ngcontent-qxe-c25] .lottery-game-menu[_ngcontent-qxe-c25] nav[_ngcontent-qxe-c25] .navbar-nav[_ngcontent-qxe-c25] {
+    overflow-x: auto;
+    height: 100%;
+    white-space: nowrap
+}
+
+.lottery-container[_ngcontent-qxe-c25] .lottery-game-menu[_ngcontent-qxe-c25] nav[_ngcontent-qxe-c25] .navbar-nav[_ngcontent-qxe-c25] li[_ngcontent-qxe-c25] {
+    padding: 0 10px
+}
+
+.lottery-container[_ngcontent-qxe-c25] .lottery-game-menu[_ngcontent-qxe-c25] nav[_ngcontent-qxe-c25] .navbar-nav[_ngcontent-qxe-c25] li[_ngcontent-qxe-c25] a[_ngcontent-qxe-c25] {
+    display: inline-block;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700
+}
+
+.lottery-container[_ngcontent-qxe-c25] .lottery-game-menu[_ngcontent-qxe-c25] nav[_ngcontent-qxe-c25] .navbar-nav[_ngcontent-qxe-c25] li.active[_ngcontent-qxe-c25] {
+    background-color: #a6a9b8
+}
+
+.lottery-container[_ngcontent-qxe-c25] .lottery-game-menu[_ngcontent-qxe-c25] nav[_ngcontent-qxe-c25] .navbar-nav[_ngcontent-qxe-c25] li[_ngcontent-qxe-c25] .home-icon[_ngcontent-qxe-c25] {
+    position: relative;
+    top: 2px
+}
+
+.lottery-container[_ngcontent-qxe-c25] .lottery-game-menu[_ngcontent-qxe-c25] nav[_ngcontent-qxe-c25] .navbar-nav[_ngcontent-qxe-c25] li[_ngcontent-qxe-c25] .nav-link-home[_ngcontent-qxe-c25] {
+    font-size: 13px
+}
+
+.lottery-container[_ngcontent-qxe-c25] .lottery-game-menu[_ngcontent-qxe-c25] nav[_ngcontent-qxe-c25] .navbar-nav[_ngcontent-qxe-c25] .game-group-icon[_ngcontent-qxe-c25] img[_ngcontent-qxe-c25] {
+    height: 16px
+}
+
+.lottery-container[_ngcontent-qxe-c25] .game-list-container[_ngcontent-qxe-c25] {
+    background-color: #fff;
+    padding: 0
+}
+
+.lottery-container[_ngcontent-qxe-c25] .game-list-container[_ngcontent-qxe-c25] .game-group-container[_ngcontent-qxe-c25] .group-title[_ngcontent-qxe-c25] {
+    margin: 20px 0 10px;
+    color: #fff;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 10px;
+    background-color: #222
+}
+
+.lottery-container[_ngcontent-qxe-c25] .game-list-container[_ngcontent-qxe-c25] .game-group-container[_ngcontent-qxe-c25] .group-content[_ngcontent-qxe-c25] .game-element[_ngcontent-qxe-c25] {
+    font-size: 12px;
+    margin-bottom: 10px
+}
+
+.lottery-container[_ngcontent-qxe-c25] .game-list-container[_ngcontent-qxe-c25] .game-group-container[_ngcontent-qxe-c25] .group-content[_ngcontent-qxe-c25] .game-element[_ngcontent-qxe-c25] .game-element-wrapper[_ngcontent-qxe-c25] {
+    padding: 0 5px
+}
+
+.lottery-container[_ngcontent-qxe-c25] .game-list-container[_ngcontent-qxe-c25] .game-group-container[_ngcontent-qxe-c25] .group-content[_ngcontent-qxe-c25] .game-element[_ngcontent-qxe-c25] .game-element-wrapper[_ngcontent-qxe-c25] .game-element-container[_ngcontent-qxe-c25] {
+    background-color: #243a47;
+    text-decoration: none;
+    display: block
+}
+
+.lottery-container[_ngcontent-qxe-c25] .game-list-container[_ngcontent-qxe-c25] .game-group-container[_ngcontent-qxe-c25] .group-content[_ngcontent-qxe-c25] .game-element[_ngcontent-qxe-c25] .game-element-wrapper[_ngcontent-qxe-c25] .game-element-container[_ngcontent-qxe-c25]:hover img[_ngcontent-qxe-c25] {
+    opacity: .5
+}
+
+.lottery-container[_ngcontent-qxe-c25] .game-list-container[_ngcontent-qxe-c25] .game-group-container[_ngcontent-qxe-c25] .group-content[_ngcontent-qxe-c25] .game-element[_ngcontent-qxe-c25] .game-element-wrapper[_ngcontent-qxe-c25] .game-element-container[_ngcontent-qxe-c25]:hover .game-detail[_ngcontent-qxe-c25] .play-button[_ngcontent-qxe-c25] {
+    background-position: -69px -170px
+}
+
+.lottery-container[_ngcontent-qxe-c25] .game-list-container[_ngcontent-qxe-c25] .game-group-container[_ngcontent-qxe-c25] .group-content[_ngcontent-qxe-c25] .game-element[_ngcontent-qxe-c25] .game-element-wrapper[_ngcontent-qxe-c25] .game-element-container[_ngcontent-qxe-c25] img[_ngcontent-qxe-c25] {
+    width: 100%;
+    opacity: 1
+}
+
+.lottery-container[_ngcontent-qxe-c25] .game-list-container[_ngcontent-qxe-c25] .game-group-container[_ngcontent-qxe-c25] .group-content[_ngcontent-qxe-c25] .game-element[_ngcontent-qxe-c25] .game-element-wrapper[_ngcontent-qxe-c25] .game-element-container[_ngcontent-qxe-c25] .game-detail[_ngcontent-qxe-c25] {
+    background-image: linear-gradient(to bottom, rgba(250, 250, 250, .9) 0, rgba(191, 191, 191, .9) 100%);
+    color: #1e1e1e;
+    height: 32px;
+    line-height: 32px;
+    padding-left: 5px;
+    font-size: 14px;
+    overflow-x: hidden
+}
+
+.lottery-container[_ngcontent-qxe-c25] .game-list-container[_ngcontent-qxe-c25] .game-group-container[_ngcontent-qxe-c25] .group-content[_ngcontent-qxe-c25] .game-element[_ngcontent-qxe-c25] .game-element-wrapper[_ngcontent-qxe-c25] .game-element-container[_ngcontent-qxe-c25] .game-detail[_ngcontent-qxe-c25] .game-name[_ngcontent-qxe-c25] {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 60%
+}
+
+.lottery-container[_ngcontent-qxe-c25] .game-list-container[_ngcontent-qxe-c25] .game-group-container[_ngcontent-qxe-c25] .group-content[_ngcontent-qxe-c25] .game-element[_ngcontent-qxe-c25] .game-element-wrapper[_ngcontent-qxe-c25] .game-element-container[_ngcontent-qxe-c25] .game-detail[_ngcontent-qxe-c25] .play-button[_ngcontent-qxe-c25] {
+    color: #fff;
+    text-decoration: none;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 32px;
+    line-height: 32px;
+    position: absolute;
+    bottom: 0;
+    right: 5px;
+    width: 115px;
+   
+}
+
+.lottery-container[_ngcontent-qxe-c25] .game-list-container[_ngcontent-qxe-c25] .game-group-container[_ngcontent-qxe-c25] .group-content[_ngcontent-qxe-c25] .game-element[_ngcontent-qxe-c25] .game-element-wrapper[_ngcontent-qxe-c25] .game-element-container[_ngcontent-qxe-c25] .game-detail[_ngcontent-qxe-c25] .play-button[_ngcontent-qxe-c25] .playnow[_ngcontent-qxe-c25] {
+    padding-left: 10%
+}
+
+
+*[_ngcontent-qxe-c17] {
+    font-size: 13px
+}
+
+.sport-groups[_ngcontent-qxe-c17] {
+    margin-top: 1px
+}
+
+.sport-groups[_ngcontent-qxe-c17] ul[_ngcontent-qxe-c17] {
+    margin: 0;
+    padding: 0;
+    overflow: hidden
+}
+
+.sport-groups[_ngcontent-qxe-c17] ul[_ngcontent-qxe-c17]>li[_ngcontent-qxe-c17] {
+    font-size: 12px;
+    float: left;
+    height: 25px;
+    text-align: center;
+    width: 33.3%;
+    cursor: pointer;
+    list-style: none;
+    margin: 0;
+    padding: 0
+}
+
+.sport-groups[_ngcontent-qxe-c17] ul[_ngcontent-qxe-c17]>li[_ngcontent-qxe-c17]>div[_ngcontent-qxe-c17] {
+    border-left: 1px solid #fff;
+    color: #fff;
+    display: block;
+    font-weight: 700;
+    line-height: 17px;
+    padding: 4px 1px 5px;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap
+}
+
+.sport-groups[_ngcontent-qxe-c17] ul[_ngcontent-qxe-c17]>li.active[_ngcontent-qxe-c17]>div[_ngcontent-qxe-c17] {
+    color: #000
+}
+
+.antepost[_ngcontent-qxe-c17] .header[_ngcontent-qxe-c17] {
+    font-size: 17px;
+    font-weight: 700;
+    padding: 0 0 10px 10px
+}
+
+.antepost[_ngcontent-qxe-c17] .country-container[_ngcontent-qxe-c17] {
+    background-color: #fff
+}
+
+.antepost[_ngcontent-qxe-c17] .country-container[_ngcontent-qxe-c17] .ante-container[_ngcontent-qxe-c17] {
+    overflow: hidden
+}
+
+.antepost[_ngcontent-qxe-c17] .country-container[_ngcontent-qxe-c17] .ante-container[_ngcontent-qxe-c17] .title[_ngcontent-qxe-c17] {
+    color: #000;
+    padding: 5px;
+    font-weight: 700;
+    background-color: #fff;
+    border-bottom: 1px solid #000
+}
+
+.antepost[_ngcontent-qxe-c17] .country-container[_ngcontent-qxe-c17] .ante-container[_ngcontent-qxe-c17] .market-name[_ngcontent-qxe-c17] {
+    width: 25%;
+    float: left;
+    cursor: pointer
+}
+
+.antepost[_ngcontent-qxe-c17] .country-container[_ngcontent-qxe-c17] .ante-container[_ngcontent-qxe-c17] .market-name[_ngcontent-qxe-c17]>a[_ngcontent-qxe-c17] {
+    font-size: 11px;
+    margin-right: 5px;
+    padding: 5px;
+    display: block;
+    border-bottom: 1px solid #e0e6e6;
+    color: #2489d5 !important
+}
+
+.antepost[_ngcontent-qxe-c17] .country-container[_ngcontent-qxe-c17] .ante-container[_ngcontent-qxe-c17] .market-name[_ngcontent-qxe-c17]:hover {
+    background-color: #eef2f3
+}
+
+
+.highlight-racing[_ngcontent-qxe-c27] {
+    margin-bottom: 20px
+}
+
+.highlight-racing[_ngcontent-qxe-c27] .racing[_ngcontent-qxe-c27] {
+    background-color: #fff
+}
+
+.highlight-racing[_ngcontent-qxe-c27] .racing[_ngcontent-qxe-c27] .title[_ngcontent-qxe-c27] {
+    color: #333;
+    padding: 3px 8px
+}
+
+.highlight-racing[_ngcontent-qxe-c27] .racing[_ngcontent-qxe-c27] .tracks-list[_ngcontent-qxe-c27] {
+    border-left: 1px solid #c4d6e4;
+    border-right: 1px solid #c4d6e4;
+    height: 0;
+    overflow: auto;
+    display: grid
+}
+
+.highlight-racing[_ngcontent-qxe-c27] .racing[_ngcontent-qxe-c27] .tracks-list.open[_ngcontent-qxe-c27] {
+    height: auto
+}
+
+.highlight-racing[_ngcontent-qxe-c27] .racing[_ngcontent-qxe-c27] .tracks-list[_ngcontent-qxe-c27] .single-track[_ngcontent-qxe-c27] {
+    border-bottom: 1px solid #c4d6e4;
+    min-height: 36px;
+    padding: 5px 12px 5px 7px;
+    background-color: #fff;
+    white-space: nowrap
+}
+
+.highlight-racing[_ngcontent-qxe-c27] .racing[_ngcontent-qxe-c27] .tracks-list[_ngcontent-qxe-c27] .single-track[_ngcontent-qxe-c27] .single-race[_ngcontent-qxe-c27]>span[_ngcontent-qxe-c27] {
+    padding-right: 5px
+}
+
+
+.highlight-racing[_ngcontent-qxe-c26] {
+    font-size: 13px;
+    margin-bottom: 20px
+}
+
+.highlight-racing[_ngcontent-qxe-c26] .racing[_ngcontent-qxe-c26] {
+    margin-top: 1px;
+    background-color: #fff
+}
+
+.highlight-racing[_ngcontent-qxe-c26] .racing[_ngcontent-qxe-c26] .title[_ngcontent-qxe-c26] {
+    padding: 3px 8px;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer
+}
+
+.highlight-racing[_ngcontent-qxe-c26] .racing[_ngcontent-qxe-c26] .title[_ngcontent-qxe-c26] .collapse-icon[_ngcontent-qxe-c26] {
+    float: right
+}
+
+.highlight-racing[_ngcontent-qxe-c26] .racing[_ngcontent-qxe-c26] .tracks-list[_ngcontent-qxe-c26] {
+    border-left: 1px solid #c4d6e4;
+    border-right: 1px solid #c4d6e4;
+    overflow: auto;
+    display: grid
+}
+
+.highlight-racing[_ngcontent-qxe-c26] .racing[_ngcontent-qxe-c26] .tracks-list[_ngcontent-qxe-c26] .single-track[_ngcontent-qxe-c26] {
+    font-size: 14px;
+    border-bottom: 1px solid #c4d6e4;
+    min-height: 36px;
+    padding: 5px 12px 5px 7px;
+    background-color: #fff;
+    white-space: nowrap
+}
+
+.highlight-racing[_ngcontent-qxe-c26] .racing[_ngcontent-qxe-c26] .tracks-list[_ngcontent-qxe-c26] .single-track[_ngcontent-qxe-c26]:hover {
+    background-color: unset
+}
+
+.highlight-racing[_ngcontent-qxe-c26] .racing[_ngcontent-qxe-c26] .tracks-list[_ngcontent-qxe-c26] .single-track[_ngcontent-qxe-c26] .separate[_ngcontent-qxe-c26] {
+    color: #7e97a7
+}
+
+.highlight-racing[_ngcontent-qxe-c26] .racing[_ngcontent-qxe-c26] .tracks-list[_ngcontent-qxe-c26] .single-track[_ngcontent-qxe-c26] .track-name[_ngcontent-qxe-c26] {
+    font-weight: 700
+}
+
+.highlight-racing[_ngcontent-qxe-c26] .racing[_ngcontent-qxe-c26] .tracks-list[_ngcontent-qxe-c26] .single-track[_ngcontent-qxe-c26] .races-list[_ngcontent-qxe-c26] {
+    display: -ms-flexbox;
+    display: flex
+}
+
+.highlight-racing[_ngcontent-qxe-c26] .racing[_ngcontent-qxe-c26] .tracks-list[_ngcontent-qxe-c26] .single-track[_ngcontent-qxe-c26] .races-list[_ngcontent-qxe-c26] .single-race[_ngcontent-qxe-c26]>span[_ngcontent-qxe-c26] {
+    padding-right: 5px
+}
+
+.highlight-racing[_ngcontent-qxe-c26] .racing[_ngcontent-qxe-c26] .tracks-list[_ngcontent-qxe-c26] .single-track[_ngcontent-qxe-c26] .races-list[_ngcontent-qxe-c26] .single-race[_ngcontent-qxe-c26]>span[_ngcontent-qxe-c26] .inplay[_ngcontent-qxe-c26] {
+    font-weight: 700
+}
+
+.highlight-racing[_ngcontent-qxe-c26] .not-found[_ngcontent-qxe-c26] {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff
+}
