@@ -1,0 +1,3079 @@
+.container-main[_ngcontent-ueu-c1] .left-menu[_ngcontent-ueu-c1] {
+	z-index: 45;
+	min-width: 250px;
+	width: 250px
+}
+
+.container-main[_ngcontent-ueu-c1] .main-content-wrapper[_ngcontent-ueu-c1] .main-content[_ngcontent-ueu-c1] {
+	height: 100%;
+	background-color: #efe4b0
+}
+
+.container-main[_ngcontent-ueu-c1] .main-content-wrapper[_ngcontent-ueu-c1] .main-content[_ngcontent-ueu-c1] .content-wrapper[_ngcontent-ueu-c1] {
+	min-height: calc(100vh - 100px)
+}
+
+.container-main[_ngcontent-ueu-c1] .main-content-wrapper[_ngcontent-ueu-c1] .notification[_ngcontent-ueu-c1] {
+	padding-top: 10px;
+	position: relative;
+	z-index: 20
+}
+
+.container-main[_ngcontent-ueu-c1] .underlay[_ngcontent-ueu-c1] {
+	margin-left: -250px
+}
+
+.exchangeGame[_ngcontent-ueu-c1] {
+	width: 100%;
+	min-height: calc(100vh - 55px)
+}
+
+.notification[_ngcontent-ueu-c1] {
+	background: #fff
+}
+
+.notification[_ngcontent-ueu-c1] .announcement-wrapper[_ngcontent-ueu-c1] {
+	padding: 0 10px;
+	position: relative
+}
+
+.notification[_ngcontent-ueu-c1] .announcement-container[_ngcontent-ueu-c1] {
+	height: 30px
+}
+
+.timer-container[_ngcontent-ueu-c1] {
+	border-bottom: 1px solid #e1e1e1
+}
+
+@media only screen and (min-width:1200px) {
+	.footer-wrapper[_ngcontent-ueu-c1] {
+		display: none
+	}
+}
+
+.top-panel[_ngcontent-ueu-c2] {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: justify;
+	justify-content: space-between
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-left[_ngcontent-ueu-c2] {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	min-height: 50px
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-left[_ngcontent-ueu-c2] .logo[_ngcontent-ueu-c2] {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	cursor: pointer
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-left[_ngcontent-ueu-c2] .logo.report-page[_ngcontent-ueu-c2] {
+	-ms-flex-align: start;
+	align-items: flex-start;
+	margin-left: 20px
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-left[_ngcontent-ueu-c2] .menu-icon[_ngcontent-ueu-c2] {
+	height: 100%;
+	min-height: 50px;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	justify-items: center;
+	min-width: 50px;
+	cursor: pointer
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-left[_ngcontent-ueu-c2] .menu-icon[_ngcontent-ueu-c2] .left-menu-icon[_ngcontent-ueu-c2] {
+	padding: 12px 0 0 12px;
+	height: 100%;
+	width: 100%
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-left[_ngcontent-ueu-c2] .menu-icon[_ngcontent-ueu-c2] .home-icon[_ngcontent-ueu-c2] {
+	height: 100%;
+	width: 100%;
+	padding: 12px 0 0 7px
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-left[_ngcontent-ueu-c2] .menu-icon[_ngcontent-ueu-c2] img[_ngcontent-ueu-c2] {
+	height: 25px;
+	width: 25px;
+	vertical-align: middle
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-left[_ngcontent-ueu-c2] .menu-icon[_ngcontent-ueu-c2]:hover {
+	box-shadow: 0 2px 40px rgba(0, 0, 0, .4)
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	-ms-flex-pack: end;
+	justify-content: flex-end
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .profit-group[_ngcontent-ueu-c2] {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	padding: 10px;
+	border-radius: 15px;
+	height: 30px;
+	background: #e2a500
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .profit-group[_ngcontent-ueu-c2] .balance[_ngcontent-ueu-c2],
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .profit-group[_ngcontent-ueu-c2] .liability[_ngcontent-ueu-c2] {
+	text-align: center;
+	height: 100%;
+	line-height: 50px;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	-ms-flex-pack: center;
+	justify-content: center
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .profit-group[_ngcontent-ueu-c2] .balance[_ngcontent-ueu-c2] .bal-val[_ngcontent-ueu-c2],
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .profit-group[_ngcontent-ueu-c2] .balance[_ngcontent-ueu-c2] .lia-val[_ngcontent-ueu-c2],
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .profit-group[_ngcontent-ueu-c2] .balance[_ngcontent-ueu-c2] .title[_ngcontent-ueu-c2],
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .profit-group[_ngcontent-ueu-c2] .liability[_ngcontent-ueu-c2] .bal-val[_ngcontent-ueu-c2],
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .profit-group[_ngcontent-ueu-c2] .liability[_ngcontent-ueu-c2] .lia-val[_ngcontent-ueu-c2],
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .profit-group[_ngcontent-ueu-c2] .liability[_ngcontent-ueu-c2] .title[_ngcontent-ueu-c2] {
+	font-weight: 700;
+	margin-right: 5px
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .profit-group[_ngcontent-ueu-c2] .balance[_ngcontent-ueu-c2] .lia-val[_ngcontent-ueu-c2],
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .profit-group[_ngcontent-ueu-c2] .liability[_ngcontent-ueu-c2] .lia-val[_ngcontent-ueu-c2] {
+	color: red;
+	margin-right: 0
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .profit-group[_ngcontent-ueu-c2] .between[_ngcontent-ueu-c2] {
+	margin-right: 5px
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .account[_ngcontent-ueu-c2] {
+	cursor: pointer;
+	display: -ms-flexbox;
+	display: flex;
+	position: relative;
+	-ms-flex-align: center;
+	align-items: center;
+	justify-items: center;
+	text-decoration: none;
+	text-align: center
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .account[_ngcontent-ueu-c2] .title[_ngcontent-ueu-c2] {
+	font-weight: 700;
+	font-size: 14px;
+	height: 100%;
+	-ms-flex-align: center;
+	align-items: center;
+	padding: 0 10px
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .account[_ngcontent-ueu-c2] .dropdown-menu[_ngcontent-ueu-c2] {
+	display: block;
+	position: absolute;
+	left: auto;
+	right: 0;
+	width: 100%;
+	z-index: 90;
+	list-style: none;
+	min-width: 250px;
+	border-radius: 2px!important;
+	background-clip: padding-box!important;
+	box-shadow: 0 2px 40px rgba(0, 0, 0, .4);
+	transition: opacity 218ms;
+	background-color: #fff;
+	margin: 0;
+	padding: 0;
+	border: none;
+	transition: all .3s linear
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .account[_ngcontent-ueu-c2] .dropdown-menu[_ngcontent-ueu-c2] li[_ngcontent-ueu-c2] {
+	border-bottom: 1px solid #f5f5f5;
+	padding: 0 8px
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .account[_ngcontent-ueu-c2] .dropdown-menu[_ngcontent-ueu-c2] li[_ngcontent-ueu-c2] a[_ngcontent-ueu-c2],
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .account[_ngcontent-ueu-c2] .dropdown-menu[_ngcontent-ueu-c2] li[_ngcontent-ueu-c2] span[_ngcontent-ueu-c2] {
+	margin: 0;
+	line-height: 16px;
+	padding: 10px 2px;
+	display: block;
+	color: #333;
+	white-space: nowrap;
+	text-align: left;
+	text-decoration: none;
+	box-shadow: none;
+	border: none;
+	outline: 0
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .account[_ngcontent-ueu-c2] .dropdown-menu[_ngcontent-ueu-c2] li[_ngcontent-ueu-c2] a.name-group[_ngcontent-ueu-c2],
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .account[_ngcontent-ueu-c2] .dropdown-menu[_ngcontent-ueu-c2] li[_ngcontent-ueu-c2] span.name-group[_ngcontent-ueu-c2] {
+	cursor: initial
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .account[_ngcontent-ueu-c2] .dropdown-menu[_ngcontent-ueu-c2] li.dropdown-footer[_ngcontent-ueu-c2] {
+	border-top: 3px solid #2dc3e8;
+	border-bottom: 0;
+	text-align: right
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .account[_ngcontent-ueu-c2] .dropdown-menu[_ngcontent-ueu-c2] li.dropdown-footer[_ngcontent-ueu-c2] a[_ngcontent-ueu-c2] {
+	text-align: right
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .account[_ngcontent-ueu-c2] .dropdown-menu-overlay[_ngcontent-ueu-c2] {
+	display: block;
+	position: fixed;
+	z-index: 80;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-color: transparent;
+	cursor: default
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .account[_ngcontent-ueu-c2] [_ngcontent-ueu-c2]:focus:not(.dropdown-balance),
+.top-panel[_ngcontent-ueu-c2] .nav-right[_ngcontent-ueu-c2] .account[_ngcontent-ueu-c2]:hover:not(.dropdown-balance) {
+	box-shadow: 0 2px 40px rgba(0, 0, 0, .4) inset
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right.login[_ngcontent-ueu-c2] input[_ngcontent-ueu-c2] {
+	height: 25px;
+	font-size: 14px
+}
+
+.top-panel[_ngcontent-ueu-c2] .nav-right.login[_ngcontent-ueu-c2] button[_ngcontent-ueu-c2] {
+	font-size: 14px;
+	height: 25px;
+	color: #fff;
+	background-color: #000;
+	border: 0;
+	width: auto;
+	outline: 0;
+	padding: 0 20px;
+	border-radius: 4px
+}
+
+.top-panel[_ngcontent-ueu-c2] .btn-in-out[_ngcontent-ueu-c2]:hover {
+	border: 1px solid #000;
+	background-color: #fff;
+	padding: 5px 10px;
+	font-weight: 700;
+	cursor: pointer
+}
+
+.top-panel[_ngcontent-ueu-c2] .dropdown-balance[_ngcontent-ueu-c2] {
+	display: block;
+	position: absolute;
+	left: auto;
+	right: 0;
+	width: auto;
+	z-index: 90;
+	list-style: none;
+	border-radius: 2px;
+	box-shadow: 0 2px 40px rgba(0, 0, 0, .4);
+	background-color: #fff;
+	transition: all .3s linear
+}
+
+.top-panel[_ngcontent-ueu-c2] .dropdown-balance[_ngcontent-ueu-c2] .lia-val[_ngcontent-ueu-c2] {
+	color: red;
+	margin-right: 0
+}
+
+.top-panel[_ngcontent-ueu-c2] .dropdown-balance-overlay[_ngcontent-ueu-c2] {
+	display: block;
+	position: fixed;
+	z-index: 80;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-color: transparent;
+	cursor: default
+}
+
+.ellipsis-text[_ngcontent-ueu-c2] {
+	max-width: 70px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis
+}
+
+.container-announcement[_ngcontent-ueu-c4] {
+	width: 100%;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-direction: row;
+	flex-direction: row;
+	-ms-flex: 6px 0;
+	flex: 6px 0;
+	border-bottom: 1px solid #e0ddc9;
+	position: absolute
+}
+
+.container-announcement[_ngcontent-ueu-c4] .fx-comment[_ngcontent-ueu-c4] .announcement-icon[_ngcontent-ueu-c4] {
+	width: 25px;
+	height: 25px;
+	background-size: 100%;
+	margin: 2px 8px 0 0;
+	background-position: center center;
+	float: left
+}
+
+.container-announcement[_ngcontent-ueu-c4] .fx-marquee[_ngcontent-ueu-c4],
+.container-announcement[_ngcontent-ueu-c4] .marquee[_ngcontent-ueu-c4] {
+	width: 100%
+}
+
+.container-announcement[_ngcontent-ueu-c4] .fx-marquee[_ngcontent-ueu-c4] .marquee[_ngcontent-ueu-c4] {
+	min-width: 10em;
+	min-height: 2rem;
+	font-weight: 700;
+	font-size: 14px;
+	white-space: nowrap;
+	overflow: hidden;
+	box-sizing: border-box
+}
+
+.container-announcement[_ngcontent-ueu-c4] .fx-marquee[_ngcontent-ueu-c4] .marquee[_ngcontent-ueu-c4] p[_ngcontent-ueu-c4] {
+	display: inline-block;
+	padding: .25rem .5rem .25rem 100%;
+	margin-bottom: 0
+}
+
+.time-contain[_ngcontent-ueu-c5] .time[_ngcontent-ueu-c5] {
+	width: 60px
+}
+
+.top-navbar-container[_ngcontent-ueu-c6] .navbar[_ngcontent-ueu-c6] .navbar-nav[_ngcontent-ueu-c6] .nav-item[_ngcontent-ueu-c6] a[_ngcontent-ueu-c6] {
+	font-size: 14px;
+	text-decoration: none;
+	line-height: 31px;
+	cursor: pointer;
+	padding: 0 10px;
+	text-transform: uppercase;
+	font-weight: 700
+}
+
+.navbar-nopadding[_ngcontent-ueu-c6] {
+	padding: 0
+}
+
+.navbar-nav[_ngcontent-ueu-c6] {
+	overflow-x: auto;
+	height: 100%;
+	white-space: nowrap
+}
+
+.nav[_ngcontent-ueu-c8] {
+	padding: 0;
+	background-color: #a6a9b8
+}
+
+nav[_ngcontent-ueu-c8] .navbar-nav[_ngcontent-ueu-c8] {
+	overflow-x: auto;
+	height: 100%
+}
+
+nav[_ngcontent-ueu-c8] .navbar-nav[_ngcontent-ueu-c8] li[_ngcontent-ueu-c8] {
+	white-space: nowrap;
+	padding: 0 10px
+}
+
+nav[_ngcontent-ueu-c8] .navbar-nav[_ngcontent-ueu-c8] li[_ngcontent-ueu-c8] a[_ngcontent-ueu-c8] {
+	display: inline-block;
+	color: #fff;
+	font-size: 14px;
+	font-weight: 700
+}
+
+nav[_ngcontent-ueu-c8] .navbar-nav[_ngcontent-ueu-c8] li.active[_ngcontent-ueu-c8] {
+	background-color: #232323
+}
+
+/* nav[_ngcontent-ueu-c8] .navbar-nav[_ngcontent-ueu-c8] li[_ngcontent-ueu-c8] .home-icon[_ngcontent-ueu-c8] {
+	background: url(casino-sprite_1506385_.e25e6e11da8f75b25bef.png) no-repeat;
+	height: 16px;
+	width: 16px;
+	position: relative;
+	top: 10px
+} */
+
+nav[_ngcontent-ueu-c8] .navbar-nav[_ngcontent-ueu-c8] .game-group-icon[_ngcontent-ueu-c8] img[_ngcontent-ueu-c8] {
+	height: 16px
+}
+
+.page-container[_ngcontent-ueu-c3] {
+	height: 100%;
+	min-width: 250px;
+	width: 250px
+}
+
+.page-container[_ngcontent-ueu-c3] a[_ngcontent-ueu-c3] {
+	text-decoration: none;
+	color: #000
+}
+
+.page-container[_ngcontent-ueu-c3] .sidebar-header-wrapper[_ngcontent-ueu-c3] {
+	position: relative;
+	padding: 10px 5px;
+	display: grid
+}
+
+.page-container[_ngcontent-ueu-c3] .sidebar-header-wrapper[_ngcontent-ueu-c3] .search-result[_ngcontent-ueu-c3] {
+	display: none
+}
+
+.page-container[_ngcontent-ueu-c3] .sidebar-header-wrapper[_ngcontent-ueu-c3] .search-icon[_ngcontent-ueu-c3] {
+	position: absolute;
+	top: 53%;
+	right: 15px;
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%)
+}
+
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] {
+	position: relative;
+	padding-left: 5px;
+	cursor: pointer;
+	overflow-y: auto;
+	overflow-x: hidden
+}
+
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .loading-icon[_ngcontent-ueu-c3] {
+	position: absolute;
+	top: 5px;
+	right: 15px
+}
+
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level0[_ngcontent-ueu-c3] {
+	font-weight: lighter;
+	padding-left: 5px
+}
+
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level0[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level1[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level2[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level3[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level4[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level5[_ngcontent-ueu-c3] {
+	white-space: pre-wrap;
+	line-height: 20px;
+	min-height: 30px;
+	overflow-y: hidden;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center
+}
+
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level1[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level2[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level3[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level4[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level5[_ngcontent-ueu-c3] {
+	border-bottom: 1px ridge #e0ddc9
+}
+
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level1[_ngcontent-ueu-c3] {
+	padding-left: 10px
+}
+
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level2[_ngcontent-ueu-c3] {
+	padding-left: 15px
+}
+
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level3[_ngcontent-ueu-c3] {
+	padding-left: 20px
+}
+
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level4[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .item-level5[_ngcontent-ueu-c3] {
+	padding-left: 25px
+}
+
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .downs-levels[_ngcontent-ueu-c3] .level[_ngcontent-ueu-c3] {
+	position: relative
+}
+
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .downs-levels[_ngcontent-ueu-c3] .level[_ngcontent-ueu-c3] .item-level2[_ngcontent-ueu-c3] span[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .downs-levels[_ngcontent-ueu-c3] .level[_ngcontent-ueu-c3] .item-level4[_ngcontent-ueu-c3] span[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .downs-levels[_ngcontent-ueu-c3] .level[_ngcontent-ueu-c3] .item-level5[_ngcontent-ueu-c3] span[_ngcontent-ueu-c3] {
+	margin-left: 5px
+}
+
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .downs-levels[_ngcontent-ueu-c3] .level[_ngcontent-ueu-c3] .item-level2[_ngcontent-ueu-c3] a[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .downs-levels[_ngcontent-ueu-c3] .level[_ngcontent-ueu-c3] .item-level4[_ngcontent-ueu-c3] a[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .downs-levels[_ngcontent-ueu-c3] .level[_ngcontent-ueu-c3] .item-level5[_ngcontent-ueu-c3] a[_ngcontent-ueu-c3] {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%
+}
+
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .downs-levels[_ngcontent-ueu-c3] .level[_ngcontent-ueu-c3] .item-level2[_ngcontent-ueu-c3] .checked[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .downs-levels[_ngcontent-ueu-c3] .level[_ngcontent-ueu-c3] .item-level4[_ngcontent-ueu-c3] .checked[_ngcontent-ueu-c3],
+.page-container[_ngcontent-ueu-c3] #left-menu[_ngcontent-ueu-c3] .downs-levels[_ngcontent-ueu-c3] .level[_ngcontent-ueu-c3] .item-level5[_ngcontent-ueu-c3] .checked[_ngcontent-ueu-c3] {
+	color: #38d634
+}
+
+.support-ie-name[_ngcontent-ueu-c3] {
+	max-width: 90%;
+	overflow: hidden
+}
+
+.fa-chevron-right[_ngcontent-ueu-c3] {
+	font-size: 10px
+}
+
+.container-fluid[_ngcontent-ueu-c7] {
+	padding-left: 10px
+}
+
+.links[_ngcontent-ueu-c7] {
+	margin: auto;
+	padding-top: 5px;
+	width: auto;
+	text-align: center
+}
+
+.links[_ngcontent-ueu-c7] span[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7] {
+	padding: 0
+}
+
+.links[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7] {
+	padding-right: 7px;
+	margin: 0 1px 0 0
+}
+
+.links[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7]+a[_ngcontent-ueu-c7] {
+	padding: 0 7px 0 9px
+}
+
+a[_ngcontent-ueu-c7] {
+	font-weight: 700;
+	outline: 0;
+	font-size: 12px
+}
+
+.footer-container[_ngcontent-ueu-c7] {
+	clear: both;
+	position: relative;
+	padding-top: 10px
+}
+
+.sscmw[_ngcontent-ueu-c7] {
+	padding-right: unset;
+	padding-left: unset
+}
+
+.block-social[_ngcontent-ueu-c7] {
+	text-align: center
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] {
+	display: inline-block;
+	width: auto;
+	padding: 0
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7]:after,
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7]:before {
+	content: "";
+	display: block
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7]:after {
+	clear: both
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] {
+	display: inline-block;
+	float: left;
+	width: auto;
+	min-height: 50px;
+	padding-left: 22px;
+	position: relative;
+	text-align: left
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] .icon-tel[_ngcontent-ueu-c7] {
+	width: 18px;
+	height: 35px;
+	background-size: 100%;
+	float: left;
+	margin-top: 16px
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] .whatsapp-items[_ngcontent-ueu-c7] {
+	float: left;
+	margin-left: 5px
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] .whatsapp-items[_ngcontent-ueu-c7] .whatsapp-item[_ngcontent-ueu-c7] {
+	margin: 4px;
+	height: 17px
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7] {
+	display: block;
+	padding: 0;
+	font-size: 14px;
+	margin: 14px 0
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7]:after,
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7]:before {
+	display: block;
+	content: ""
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7]:after {
+	clear: both
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7] .contact[_ngcontent-ueu-c7] {
+	width: 30px;
+	height: auto;
+	margin-top: -10px
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7] span[_ngcontent-ueu-c7] {
+	display: inline-block!important;
+	float: left;
+	margin-top: 0;
+	font-weight: 500
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7] span.icon[_ngcontent-ueu-c7] {
+	margin: 1px 8px 0 0
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7] span.icon-telegraph[_ngcontent-ueu-c7] {
+	width: 16px;
+	height: 16px;
+	background-size: 100%
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7] span.icon-mail[_ngcontent-ueu-c7] {
+	width: 16px;
+	height: 16px;
+	background-size: 100%;
+	margin: 5px 7px 0 0
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7] span.icon-skype[_ngcontent-ueu-c7] {
+	width: 13px;
+	height: 15px;
+	background-size: 100%;
+	margin: 1px 7px 0 0
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7] span.icon-instagram[_ngcontent-ueu-c7] {
+	width: 14px;
+	height: 15px;
+	background-size: 100%;
+	margin: 2px 7px 0 0
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7] span.icon-facebook[_ngcontent-ueu-c7] {
+	width: 15px;
+	height: 15px;
+	background-size: 100%;
+	margin: 2px 7px 0 0
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7] span.icon-youtube[_ngcontent-ueu-c7] {
+	width: 17px;
+	height: 15px;
+	background-size: 100%;
+	margin: 5px 7px 0 0
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] li[_ngcontent-ueu-c7] a[_ngcontent-ueu-c7] span.icon-betfair[_ngcontent-ueu-c7] {
+	width: 12px;
+	height: 15px;
+	background-size: 100%;
+	margin: -10px 10px 0 0
+}
+
+.block-social[_ngcontent-ueu-c7] ul[_ngcontent-ueu-c7] .footer-center-logo[_ngcontent-ueu-c7] {
+	width: 110px
+}
+
+@media only screen and (max-width:600px) {
+	.footer-center-logo[_ngcontent-ueu-c7] {
+		width: 100%!important;
+		display: -ms-flexbox!important;
+		display: flex!important;
+		-ms-flex-pack: center;
+		justify-content: center;
+		justify-items: center;
+		-ms-flex-align: center;
+		align-items: center;
+		padding-right: 96px
+	}
+}
+
+.completer-dropdown[_ngcontent-ueu-c10] {
+	border-color: #ececec;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 2px;
+	width: 250px;
+	padding: 6px;
+	cursor: pointer;
+	z-index: 9999;
+	position: absolute;
+	margin-top: -6px;
+	background-color: #ffffff;
+}
+
+.completer-row[_ngcontent-ueu-c10] {
+	padding: 5px;
+	color: #000000;
+	margin-bottom: 4px;
+	clear: both;
+	display: inline-block;
+	width: 103%;
+}
+
+.completer-selected-row[_ngcontent-ueu-c10] {
+	background-color: lightblue;
+	color: #ffffff;
+}
+
+.completer-description[_ngcontent-ueu-c10] {
+	font-size: 14px;
+}
+
+/* .completer-image-default[_ngcontent-ueu-c10] {
+	width: 16px;
+	height: 16px;
+	background-image: url("demo/res/img/default.png");
+} */
+
+.completer-image-holder[_ngcontent-ueu-c10] {
+	float: left;
+	width: 10%;
+}
+
+.completer-item-text-image[_ngcontent-ueu-c10] {
+	float: right;
+	width: 90%;
+}
+
+.container-menu[_ngcontent-ueu-c11] {
+	height: 31px;
+	width: 100%
+}
+
+.sport-content.container[_ngcontent-ueu-c11] {
+	min-width: 930px
+}
+
+.sport-content[_ngcontent-ueu-c11] .resize-padding[_ngcontent-ueu-c11] {
+	padding-top: 10.5px!important;
+	padding-bottom: 10.5px!important
+}
+
+.sport-content[_ngcontent-ueu-c11] .resize-padding-mobile[_ngcontent-ueu-c11] {
+	padding-top: 0!important;
+	padding-bottom: 0!important
+}
+
+.sport-header[_ngcontent-ueu-c11] .primary-heading-text[_ngcontent-ueu-c11] {
+	background-color: #fff;
+	padding: 5px 8px;
+	margin-bottom: 0;
+	font: bold 18px "Helvetica Neue", sans-serif;
+	color: #273a47;
+	text-decoration: none
+}
+
+.div-scroll[_ngcontent-ueu-c11] {
+	max-height: calc(100vh - 165px);
+	overflow-y: auto;
+	overflow-x: hidden
+}
+
+@media only screen and (max-width:1200px) {
+	.footer-wrapper[_ngcontent-ueu-c11] {
+		display: none
+	}
+}
+
+.nav[_ngcontent-ueu-c12] {
+	padding: 0
+}
+
+nav[_ngcontent-ueu-c12] .navbar-nav[_ngcontent-ueu-c12] {
+	overflow-x: auto;
+	height: 100%
+}
+
+nav[_ngcontent-ueu-c12] .navbar-nav[_ngcontent-ueu-c12] li[_ngcontent-ueu-c12] {
+	white-space: nowrap;
+	padding: 0 10px
+}
+
+nav[_ngcontent-ueu-c12] .navbar-nav[_ngcontent-ueu-c12] li[_ngcontent-ueu-c12] .icon-sport-menu[_ngcontent-ueu-c12] i[_ngcontent-ueu-c12] {
+	vertical-align: middle
+}
+
+nav[_ngcontent-ueu-c12] .navbar-nav[_ngcontent-ueu-c12] li[_ngcontent-ueu-c12] .nav-link[_ngcontent-ueu-c12] {
+	display: -ms-flexbox;
+	display: flex
+}
+
+nav[_ngcontent-ueu-c12] .navbar-nav[_ngcontent-ueu-c12] li[_ngcontent-ueu-c12] a[_ngcontent-ueu-c12] {
+	display: inline-block;
+	font-size: 14px
+}
+
+nav[_ngcontent-ueu-c12] .navbar-nav[_ngcontent-ueu-c12] li[_ngcontent-ueu-c12] .nav-link-home[_ngcontent-ueu-c12] {
+	font-size: 13px
+}
+
+nav[_ngcontent-ueu-c12] .navbar-nav[_ngcontent-ueu-c12] li[_ngcontent-ueu-c12] .home-icon[_ngcontent-ueu-c12] {
+	position: relative;
+	top: 3px
+}
+
+nav[_ngcontent-ueu-c12] .navbar-nav[_ngcontent-ueu-c12] .game-group-icon[_ngcontent-ueu-c12] img[_ngcontent-ueu-c12] {
+	height: 16px
+}
+
+@media screen and (max-width:736px) {
+	.img[_ngcontent-ueu-c13] {
+		height: 150px
+	}
+}
+
+@media screen and (min-width:768px) and (max-width:1024px) {
+	.img[_ngcontent-ueu-c13] {
+		height: 165px
+	}
+}
+
+@media screen and (min-width:1024px) {
+	.img[_ngcontent-ueu-c13] {
+		height: 222px
+	}
+}
+
+.img[_ngcontent-ueu-c13] {
+	max-width: 100%
+}
+
+.item[_ngcontent-ueu-c13] {
+	text-align: center
+}
+
+.carousel.slide-animated[_ngcontent-ueu-c13] slide.item[_ngcontent-ueu-c13] {
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both
+}
+
+.carousel.slide-animated[_ngcontent-ueu-c13] slide.item.active[_ngcontent-ueu-c13] {
+	width: 100%;
+	-webkit-animation-name: carouselSlideIn;
+	animation-name: carouselSlideIn
+}
+
+.carousel.slide-animated[_ngcontent-ueu-c13] slide.item[_ngcontent-ueu-c13]:not(.active) {
+	display: table-cell;
+	-webkit-animation-name: carouselSlideOut;
+	animation-name: carouselSlideOut
+}
+
+@-webkit-keyframes carouselSlideIn {
+	0% {
+		transform: translateX(100%)
+	}
+	100% {
+		transform: translateX(0)
+	}
+}
+
+@keyframes carouselSlideIn {
+	0% {
+		transform: translateX(100%)
+	}
+	100% {
+		transform: translateX(0)
+	}
+}
+
+@-webkit-keyframes carouselSlideOut {
+	0% {
+		transform: translateX(0)
+	}
+	100% {
+		transform: translateX(-100%)
+	}
+}
+
+@keyframes carouselSlideOut {
+	0% {
+		transform: translateX(0)
+	}
+	100% {
+		transform: translateX(-100%)
+	}
+}
+
+.container-menu[_ngcontent-ueu-c14] {
+	height: 31px;
+	width: 100%
+}
+
+.highlight-content[_ngcontent-ueu-c14] {
+	padding-right: 15px;
+	padding-left: 15px
+}
+
+#sport-highlight[_ngcontent-ueu-c14] .header[_ngcontent-ueu-c14] {
+	padding: 5px 8px;
+	font-size: 14px;
+	font-weight: 700;
+	margin-bottom: 0
+}
+
+#sport-highlight[_ngcontent-ueu-c14] .sport-highlight-content[_ngcontent-ueu-c14] {
+	border: 1px solid #c7d5e0
+}
+
+.header-color[_ngcontent-ueu-c14] {
+	font-size: 14px;
+	font-weight: 700;
+	padding: 10px;
+	margin-bottom: 9px
+}
+
+.sport-highlight-content[_ngcontent-ueu-c14] {
+	background-color: #fff;
+	position: relative;
+	width: 100%
+}
+
+.sport-highlight[_ngcontent-ueu-c14] {
+	background-color: #fff
+}
+
+.highlight-content-collapse[_ngcontent-ueu-c14] {
+	padding-right: 0
+}
+
+.mod-comingup[_ngcontent-ueu-c18] {
+	margin-bottom: 15px;
+	overflow: hidden;
+	background-color: #fff;
+	padding: 11px
+}
+
+.mod-comingup[_ngcontent-ueu-c18] .mod-header[_ngcontent-ueu-c18] {
+	padding-bottom: 5px;
+	padding-left: 8px;
+	font-weight: 800
+}
+
+.mod-comingup[_ngcontent-ueu-c18] .comingup-races-content[_ngcontent-ueu-c18] {
+	border-top: 1px solid #c7d5e0;
+	border-bottom: 1px solid #c7d5e0;
+	height: auto;
+	min-height: 12px;
+	overflow: hidden;
+	padding: 8px
+}
+
+.mod-comingup[_ngcontent-ueu-c18] .comingup-races-content[_ngcontent-ueu-c18] .comingup-links[_ngcontent-ueu-c18] li[_ngcontent-ueu-c18] {
+	border-left: 1px solid #2c7dbe;
+	color: #428bca;
+	display: block;
+	float: left;
+	font-weight: 700;
+	padding: 0 8px 0 10px;
+	text-decoration: none
+}
+
+.mod-comingup[_ngcontent-ueu-c18] .comingup-races-content[_ngcontent-ueu-c18] .comingup-links[_ngcontent-ueu-c18] li[_ngcontent-ueu-c18] a[_ngcontent-ueu-c18] {
+	color: #428bca
+}
+
+.mod-comingup[_ngcontent-ueu-c18] .comingup-races-content[_ngcontent-ueu-c18] .comingup-links[_ngcontent-ueu-c18] li[_ngcontent-ueu-c18]:first-child {
+	border-left: 0;
+	padding: 0 8px 0 2px
+}
+
+.mod-comingup[_ngcontent-ueu-c18] .comingup-races-content[_ngcontent-ueu-c18] span[_ngcontent-ueu-c18] {
+	display: block;
+	float: left;
+	color: #666
+}
+
+.mod-comingup[_ngcontent-ueu-c18] .comingup-races-content[_ngcontent-ueu-c18]:last-child {
+	border: none
+}
+
+[_nghost-ueu-c19] .nav-tabs[_ngcontent-ueu-c19] .nav-item.disabled[_ngcontent-ueu-c19] a.disabled[_ngcontent-ueu-c19] {
+	cursor: default
+}
+
+/* @font-face {
+	font-family: Montserrat;
+	src: local('Montserrat'), url(assets/fonts/Montserrat-Regular.ttf) format('truetype'), url(assets/fonts/Montserrat-Bold.ttf) format('truetype')
+} */
+
+body,
+.input-group-sm>.form-control,
+.input-group-sm>.custom-select {
+	font-size: 14px;
+	font-family: Montserrat
+}
+
+/* .sprite-logos {
+	background-image: url(assets/templates/template2/images/skins/jio/logo.svg);
+	background-position: 0;
+	background-repeat: no-repeat;
+	height: 30px!important
+} */
+
+/* .football-ranger-inner {
+	background: transparent url(assets/templates/template2/images/skins/jio/load.png) no-repeat 0 0
+} */
+
+.meto-bg-hover-lay {
+	background-color: #fdd4dd
+}
+
+.meto-bg-hover-back {
+	background-color: #b8e0ff
+}
+
+.meto-bd-lay {
+	border-color: #f994a9
+}
+
+.meto-bd-red {
+	border-color: #b30000
+}
+
+.meto-bg-lay {
+	background-color: #faa9ba
+}
+
+.meto-bd-back {
+	border-color: #4db1ff
+}
+
+.meto-bd-menu {
+	border-color: #232323
+}
+
+.meto-bg-back {
+	background-color: #72bbef
+}
+
+.meto-bg-main {
+	background-color: #edf0f0
+}
+
+.meto-bg-menu {
+	background-color: #122b63
+}
+
+.meto-text-lay {
+	color: #f994a9
+}
+
+.meto-text-tab {
+	color: #fff
+}
+
+.meto-text-back {
+	color: #4db1ff
+}
+
+.meto-text-info {
+	color: #516472
+}
+
+.meto-bg-betslip,
+.meto-bg-sport {
+	background-color: #fff
+}
+
+.meto-bg-primary {
+	background-color: #3d60a4
+}
+
+.meto-text-black {
+	color: #0f0f0f
+}
+
+.meto-text-muted {
+	color: #7f7f7f
+}
+
+.meto-bg-exchange {
+	background-color: #edf0f0
+}
+
+.meto-icon-inplay {
+	color: #9bdb00
+}
+
+.meto-text-danger {
+	color: #b30000
+}
+
+.meto-text-inplay {
+	color: #090
+}
+
+.meto-text-primary {
+	color: #2789ce
+}
+
+.meto-bg-active-lay {
+	background-color: #fdd4dd
+}
+
+.meto-bg-fastbutton {
+	background-color: #c7d4e1
+}
+
+.meto-bg-hover-menu {
+	background-color: #21529e
+}
+
+.meto-text-leftmenu {
+	color: #2489d5
+}
+
+.meto-bg-active-back {
+	background-color: #b8e0ff
+}
+
+.meto-bg-header-title {
+	background-color: #179531
+}
+
+.meto-text-fastbutton {
+	color: #31507c
+}
+
+.meto-bg-leftmenu-hover {
+	background-color: #eee
+}
+
+.meto-bg-section-header {
+	background-color: #ffc21c
+}
+
+.in-play-button,
+.highlight-racing .title {
+	border-bottom: 3px solid #ffc21c
+}
+
+.meto-border-right-menu {
+	border-right: 1px solid #3d60a4
+}
+
+.meto-bg-sport-highlights-sporttab {
+	background-color: #6c91d7
+}
+
+.back {
+	background-color: #c9e6ef
+}
+
+.lay {
+	background-color: #f9e6ed
+}
+
+.mybets-body {
+	background-color: #fbfbfb
+}
+
+.container-bet-slip .nav-tabs .nav-link {
+	color: #000
+}
+
+.container-bet-slip .nav-link.active {
+	background: #fff;
+	color: #000
+}
+
+.open-bets .header-back {
+	background-color: #a6d8ff
+}
+
+.button-primary {
+	background: #1866a8
+}
+
+.bet-info {
+	color: #7e97a7
+}
+
+.btn-cancel {
+	background: #fff;
+	background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#efefef));
+	background: -moz-linear-gradient(top, #ffffff, #efefef);
+	-ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#efefef);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#efefef);
+	border: 1px solid #c7d5e0;
+	color: #3b5160
+}
+
+.odds-ladder-right .arrow-btn {
+	border: 1px solid #ccc;
+	background-color: #eee
+}
+
+.top-navbar-container .navbar .navbar-nav .nav-item a {
+	color: #000
+}
+
+.links-container {
+	background-color: #fff
+}
+
+.event-meta .status-overlay {
+	background: #fff
+}
+
+@-webkit-keyframes flash {
+	10% {
+		background-color: #ff0
+	}
+}
+
+@keyframes flash {
+	10% {
+		background-color: #ff0
+	}
+}
+
+@-webkit-keyframes flash-virtual {
+	10% {
+		background-color: #ff0
+	}
+}
+
+@keyframes flash-virtual {
+	10% {
+		background-color: #ff0
+	}
+}
+
+.header-color {
+	color: #000000a8
+}
+
+#sport-highlight .header {
+	color: #fff
+}
+
+.top-panel {
+	background-color: #ffc21c
+}
+
+.container-announcement .marquee {
+	background-color: transparent;
+	color: #777
+}
+
+.container-announcement .comment {
+	color: #777
+}
+
+.fastbutton .fastbtn {
+	color: #011d49
+}
+
+.header-fancy,
+.header-boomaker {
+	color: #fff
+}
+
+.button-primary {
+	color: #000
+}
+
+.mybets-header {
+	background-image: linear-gradient(to bottom, #f2f2f2 0, #fafafa 100%)
+}
+
+.title-event {
+	background: #fff
+}
+
+.footer-container a {
+	color: #1e1e1e
+}
+
+.block-social ul li a {
+	color: #000
+}
+
+/* .block-social ul li a .icon-mail {
+	background: url(assets/templates/template2/images/skins/jio/email.png) no-repeat
+} */
+
+/* .login-popup-content {
+	background: url(assets/templates/template2/images/skins/jio/popup_bg.png) no-repeat;
+	background-size: cover
+} */
+
+/* .icon-tel {
+	background: url(assets/templates/template2/images/skins/jio/whatsapp.png) no-repeat
+} */
+
+/* .icon-telegraph {
+	background: url(assets/templates/template2/images/skins/jio/telegraph_icon.png) no-repeat
+} */
+
+/* .icon-instagram {
+	background: url(assets/templates/template2/images/skins/jio/instagram_icon.png) no-repeat
+} */
+
+/* .icon-facebook {
+	background: url(assets/templates/template2/images/skins/jio/facebook_icon.png) no-repeat
+} */
+
+/* .icon-youtube {
+	background: url(assets/templates/template2/images/skins/jio/youtube_icon.png) no-repeat
+} */
+
+/* .icon-mail {
+	background: url(assets/templates/template2/images/skins/jio/icon-mail.png) no-repeat
+} */
+
+/* .announcement-icon {
+	background: url(assets/templates/template2/images/skins/jio/announcement.png) no-repeat
+} */
+
+.pending-stake {
+	color: #333;
+	font-size: 12px
+}
+
+.cell-back.selected {
+	background-color: #2797e6
+}
+
+.cell-lay.selected {
+	background-color: #f87c96
+}
+
+@keyframes flash {
+	10% {
+		background-color: #ff0
+	}
+}
+
+.cell-odds.cell-lay {
+	background-color: #fbd7e5
+}
+
+.cell-odds.cell-back {
+	background-color: #9ecddf
+}
+
+@-webkit-keyframes flash {
+	10% {
+		background-color: #ff0
+	}
+}
+
+@-webkit-keyframes flash-virtual {
+	10% {
+		background-color: #ff0
+	}
+}
+
+@keyframes flash-virtual {
+	10% {
+		background-color: #ff0
+	}
+}
+
+.content-404 {
+	background-color: #edf0f0
+}
+
+.layRow {
+	background: #ffeff5!important;
+	background: -moz-linear-gradient(top, #ffeff5 0%, #ffffff 100%)!important;
+	background: -webkit-linear-gradient(top, #ffeff5 0%, #ffffff 100%)!important;
+	background: linear-gradient(to bottom, #ffeff5 0%, #ffffff 100%)!important;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffeff5', endColorstr='#ffffff', GradientType=0)!important
+}
+
+.backRow {
+	background: #e5f2f9!important;
+	background: -moz-linear-gradient(top, #e5f2f9 0%, #ffffff 100%)!important;
+	background: -webkit-linear-gradient(top, #e5f2f9 0%, #ffffff 100%)!important;
+	background: linear-gradient(to bottom, #e5f2f9 0%, #ffffff 100%)!important;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e5f2f9', endColorstr='#ffffff', GradientType=0)!important
+}
+
+.check-box-color {
+	background-color: #ffc21c
+}
+
+.sport-header {}
+
+.chk-average-odds input:checked~.checkmark,
+.open-bets-header-bg {
+	background-color: #ffc21d
+}
+
+.open-bets-header {
+	border-bottom: 2px solid #ffc21d
+}
+
+.login-panel-container #login-btn-popup {
+	background-color: #fff;
+	color: #000
+}
+
+.login-panel-container .form-control {
+	color: #fff
+}
+
+.login-panel-container .eyes-icon {
+	color: #fff
+}
+
+.login-panel-container input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+	-webkit-text-fill-color: #fff;
+	transition: background-color 5000s ease-in-out 0s
+}
+
+.change-pass-content .mod-login .btn-skip {
+	background-color: #999
+}
+
+.cta-primary {
+	background-color: #ffc21d
+}
+
+.mod-login .btn-change-password {
+	color: #1e1e1e
+}
+
+.sport-header .header {
+	border-left: 8px solid #ffc21c
+}
+
+.btn-report-search,
+.btn-report-search:focus {
+	background-color: #ffc21d;
+	border-color: #ffc21d
+}
+
+.theme-template2-jio .top-panel {
+	background-color: #179531
+}
+
+.theme-template2-jio .chk-average-odds input:checked~.checkmark,
+.open-bets-header-bg {
+	background-color: #179531
+}
+
+.theme-template2-jio .container-bet-slip .nav-tabs .nav-link,
+.theme-template2-jio .container-mybets .nav-tabs .nav-link {
+	color: #fff
+}
+
+.theme-template2-jio .top-panel .nav-right .profit-group .balance .bal-val.ellipsis-text,
+.theme-template2-jio .top-panel .nav-right .profit-group .balance .fa-caret-down,
+.theme-template2-jio .top-panel .nav-right .profit-group .balance .fa-dollar-sign,
+.theme-template2-jio .container-mybets .nav-tabs .nav-link {
+	color: #fff!important
+}
+
+.top-panel .nav-right .profit-group .balance .title,
+.top-panel .nav-right .profit-group .balance .bal-val,
+.top-panel .nav-right .profit-group .liability .title,
+.top-panel .nav-right .account .title,
+.theme-template2-jio .time-contain {}
+
+.theme-template2-jio .edit-stake-header {
+	background-color: #617766;
+	color: #fff
+}
+
+.theme-template2-jio .activities-container,
+.theme-template2-jio .account-statement-container,
+.my-bet-container {
+	background-color: #f2e3a8!important;
+	background-image: none!important
+}
+
+.theme-template2-jio .top-panel .nav-right .profit-group {
+	background: rgba(52, 58, 64, .45)!important
+}
+
+.theme-template2-jio .top-panel .nav-right .account .title i {
+	color: #ffc21d!important
+}
+
+.theme-template2-jio .top-panel .nav-right .account:hover:not(.dropdown-balance),
+.theme-template2-jio .top-panel .nav-right .account:focus:not(.dropdown-balance) {
+	background-color: #617766!important
+}
+
+.theme-template2-betxhub .left-menu-icon {
+	background: #ffc21d
+}
+
+/* @media only screen and (max-width:992px) {
+	.login-popup-content {
+		background: url(assets/templates/template2/images/skins/jio/mobi_popup.png) no-repeat!important;
+		background-size: cover!important;
+		height: 410px!important
+	}
+} */
+
+.header-content-info {
+	color: #fff
+}
+
+.top-panel .menu-icon {
+	background: #ffc21d
+}
+
+.top-panel .nav-left .menu-icon a .fa-home {
+	color: #179531
+}
+
+.top-container .sport-container {
+	background-color: #ffc21d
+}
+
+.top-container .sport-container .items-10 .menu-item {
+	border-left: 1px solid #d09c10
+}
+
+.mobile-version {
+	color: #000
+}
+
+.collapse-icon {
+	background-color: #179531!important
+}
+
+.top-container .sport-container {
+	background-color: #ffc21d
+}
+
+.top-container .sport-container .items-10 .menu-item {
+	border-left: 1px solid #d09c10
+}
+
+.page-container #left-menu .item-level0.active,
+.page-container #left-menu .item-level3.active,
+.page-container #left-menu .item-level4.active,
+.page-container #left-menu .item-level5.active,
+.page-container #left-menu .up-levels .item-level1.active,
+.page-container #left-menu .up-levels .item-level2.active,
+.page-container #left-menu .downs-levels .item-level1.active,
+.page-container #left-menu .downs-levels .item-level2.active {
+	background: linear-gradient(90deg, rgba(255, 194, 29, 1) 0%, rgba(255, 255, 255, 0) 100%);
+	font-weight: 700
+}
+
+.container-main .left-menu,
+.page-container {
+	background-image: linear-gradient(132deg, #eae7d3 8.33%, #F3F0DC 8.33%, #F3F0DC 50%, #eae7d3 50%, #eae7d3 58.33%, #F3F0DC 58.33%, #F3F0DC 100%);
+	background-size: 10.35px 10px
+}
+
+.sport-list-menu {
+	background-color: #232323
+}
+
+.sport-list-menu .navbar-nav li .active {
+	background-color: #a6a9b8
+}
+
+.page-container #left-menu .item-level0,
+.page-container #left-menu .up-levels .item-level1,
+.page-container #left-menu .up-levels .item-level2 {
+	background: #cacaca
+}
+
+.top-navbar-container .selected-tab {
+	border-bottom: 5px solid #ffc21c
+}
+
+.sport-highlight .nav-tabs {
+	border-bottom: 3px solid #ffc21c
+}
+
+.sport-highlight .nav-tabs .nav-link {
+	color: #fff;
+	background-color: #a6a9b8
+}
+
+.sport-highlight .nav-tabs .nav-link.active {
+	color: #000;
+	background-color: #ffc21c
+}
+
+.edit-stake-header {
+	color: #000;
+	background-color: #d09c10
+}
+
+.sport-header .header {
+	color: #333
+}
+
+/* .sport-highlight-icon {
+	background: url(assets/templates/common/images/exchange/highlights.png);
+	background-repeat: no-repeat;
+	width: 27px;
+	height: 33px;
+	position: absolute;
+	left: 20px
+} */
+
+.sportName {
+	color: #000!important
+}
+
+.mod-comingup .mod-header {
+	color: #000
+}
+
+.top-panel .nav-right .account:hover,
+.top-panel .nav-right .account:focus {
+	background-color: #d09c10
+}
+
+.sport-highlight .sport-highlight-content .header-color {
+	margin-left: 46px;
+	color: #000
+}
+
+.sport-groups ul>li {
+	background-color: #a6a9b8
+}
+
+.sport-groups ul>li.active {
+	background-color: #ffc21c
+}
+
+.all-games .all-games-header {
+	background-color: #ffc21d
+}
+
+.text-collapse {
+	color: #ffc107
+}
+
+.container-mybets .nav-link .nav-tabs .nav-link {
+	color: #000
+}
+
+.pl-toggle.custom-control-input:checked~.pl-toggle.custom-control-label::before {
+	color: #fff;
+	border-color: #ffc21d;
+	background-color: #ffc21d
+}
+
+.live-center-container {
+	display: block
+}
+
+.live-center-container .popup {
+	background-color: #d09c10
+}
+
+.top-panel .nav-right .account:hover:not(.dropdown-balance),
+.top-panel .nav-right .account:focus:not(.dropdown-balance) {
+	box-shadow: 0 2px 40px rgba(0, 0, 0, .4) inset
+}
+
+.sport-list-menu .navbar-nav li a {
+	color: #fff
+}
+
+.main-content-wrapper .notification {
+	background: #f3f0dc!important
+}
+
+.page-container #left-menu {
+	max-height: calc(100vh - 112px)
+}
+
+.container-event-info[_ngcontent-ueu-c16] {
+	padding-bottom: 0;
+	background-color: #fff;
+	width: 100%;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-right: auto;
+	margin-left: auto
+}
+
+.links-container[_ngcontent-ueu-c16] {
+	overflow: hidden;
+	padding: 8px;
+	line-height: normal;
+	border-top: 1px solid #e0e6e6;
+	font-size: 12px
+}
+
+a[_ngcontent-ueu-c16] {
+	color: #2789ce
+}
+
+.links-more-inplay[_ngcontent-ueu-c16] {
+	float: left
+}
+
+.links-more-event[_ngcontent-ueu-c16] {
+	float: right
+}
+
+.event-info[_ngcontent-ueu-c16] {
+	display: -ms-inline-flexbox;
+	display: inline-flex
+}
+
+.text-center[_ngcontent-ueu-c16] {
+	text-align: center;
+	padding: 14px;
+	font-weight: 700
+}
+
+.text-bold[_ngcontent-ueu-c16] {
+	font-weight: 700
+}
+
+.highlight-container[_ngcontent-ueu-c16] .sport[_ngcontent-ueu-c16] {
+	width: 100%;
+	margin-right: 10px;
+	margin-left: 10px
+}
+
+h2.sport-name[_ngcontent-ueu-c16] {
+	background: #588db6;
+	padding: 5px;
+	font-size: 14px;
+	font-weight: 700;
+	color: #fff
+}
+
+.competiton[_ngcontent-ueu-c16] {
+	width: 100%
+}
+
+.runner-x[_ngcontent-ueu-c16] {
+	text-align: center;
+	-ms-flex: 1;
+	flex: 1
+}
+
+.table.table-odds[_ngcontent-ueu-c16] th[_ngcontent-ueu-c16] {
+	border: none;
+	padding: 5px
+}
+
+.selections-count[_ngcontent-ueu-c16] {
+	width: 55%
+}
+
+.td-odds[_ngcontent-ueu-c16] {
+	border: none;
+	padding: 0;
+	margin-top: 14px
+}
+
+.flex-layout[_ngcontent-ueu-c16] {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: end;
+	justify-content: flex-end
+}
+
+.right-runner-name[_ngcontent-ueu-c16] {
+	width: 45%;
+	display: -ms-flexbox;
+	display: flex;
+	max-width: 500px;
+	-ms-flex-pack: end;
+	justify-content: flex-end
+}
+
+.runner-size-3[_ngcontent-ueu-c16] {
+	max-width: 500px
+}
+
+.runner-size-2[_ngcontent-ueu-c16] {
+	max-width: 450px
+}
+
+.sport-header[_ngcontent-ueu-c16] {
+	padding-top: 15px
+}
+
+.sport-header[_ngcontent-ueu-c16] .header[_ngcontent-ueu-c16] {
+	padding: 5px;
+	font-size: 14px;
+	font-weight: 700;
+	margin-bottom: 0
+}
+
+@media only screen and (min-width:768px) {
+	.right-runner-name[_ngcontent-ueu-c16] {
+		width: 450px
+	}
+	.container-event-info[_ngcontent-ueu-c16] {
+		min-width: calc(100vw - 40px)
+	}
+}
+
+@media only screen and (min-width:1200px) {
+	.right-runner-name[_ngcontent-ueu-c16] {
+		width: 400px
+	}
+	.container-event-info[_ngcontent-ueu-c16] {
+		min-width: auto
+	}
+}
+
+ul[_ngcontent-ueu-c20] {
+	margin: 0;
+	padding: 0
+}
+
+li[_ngcontent-ueu-c20] {
+	list-style: none
+}
+
+.vevent[_ngcontent-ueu-c20] {
+	border-top: 1px solid #e0e6e6;
+	padding-right: 4px
+}
+
+.market-container[_ngcontent-ueu-c20] {
+	display: -ms-flexbox;
+	display: flex;
+	padding-left: 4px
+}
+
+.event-start-time[_ngcontent-ueu-c20] {
+	font-weight: 400;
+	color: #666;
+	margin-left: 8px
+}
+
+.event-meta-size-3[_ngcontent-ueu-c20] {
+	width: 100%
+}
+
+.event-meta[_ngcontent-ueu-c20] {
+	float: right
+}
+
+.event-meta[_ngcontent-ueu-c20] ul[_ngcontent-ueu-c20] li[_ngcontent-ueu-c20] {
+	-ms-flex: 1;
+	flex: 1;
+	float: left;
+	margin-left: 1px
+}
+
+.event-meta[_ngcontent-ueu-c20] ul[_ngcontent-ueu-c20] li[_ngcontent-ueu-c20]:first-child {
+	margin-left: 0;
+	line-height: 0
+}
+
+.event-meta[_ngcontent-ueu-c20] ul[_ngcontent-ueu-c20] li[_ngcontent-ueu-c20] .lay-cell[_ngcontent-ueu-c20] {
+	float: left;
+	margin-left: 1px;
+	line-height: 0
+}
+
+.event-meta[_ngcontent-ueu-c20] .prices-list[_ngcontent-ueu-c20] {
+	position: relative;
+	float: left
+}
+
+.noselection-btn[_ngcontent-ueu-c20] {
+	cursor: initial;
+	outline: 0
+}
+
+.description[_ngcontent-ueu-c20] span[_ngcontent-ueu-c20] {
+	padding-right: 2px
+}
+
+.market-details[_ngcontent-ueu-c20] {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	height: 50px
+}
+
+.market-link[_ngcontent-ueu-c20] {
+	-ms-flex: 1;
+	flex: 1
+}
+
+.flex-layout[_ngcontent-ueu-c20] {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: end;
+	justify-content: flex-end
+}
+
+.right-runner-name[_ngcontent-ueu-c20] {
+	width: 45%;
+	display: -ms-flexbox;
+	display: flex;
+	max-width: 500px;
+	-ms-flex-pack: end;
+	justify-content: flex-end
+}
+
+.runner-size-3[_ngcontent-ueu-c20] {
+	max-width: 500px
+}
+
+.runner-x[_ngcontent-ueu-c20] {
+	text-align: center;
+	-ms-flex: 1;
+	flex: 1
+}
+
+.competiton[_ngcontent-ueu-c20] {
+	width: 100%
+}
+
+@media only screen and (min-width:768px) {
+	.group-live-icon[_ngcontent-ueu-c20],
+	.right-runner-name[_ngcontent-ueu-c20] {
+		width: 450px
+	}
+}
+
+@media only screen and (min-width:1200px) {
+	.right-runner-name[_ngcontent-ueu-c20] {
+		width: 400px
+	}
+	.container-event-info[_ngcontent-ueu-c20] {
+		min-width: auto
+	}
+	.event-meta[_ngcontent-ueu-c20] {
+		width: 400px
+	}
+	.group-live-icon[_ngcontent-ueu-c20] {
+		width: 450px
+	}
+}
+
+.table.table-odds[_ngcontent-ueu-c20] th[_ngcontent-ueu-c20] {
+	border: none;
+	padding: 5px
+}
+
+.td-odds[_ngcontent-ueu-c20] {
+	border: none;
+	padding: 0;
+	margin-top: 14px
+}
+
+.container-event-info[_ngcontent-ueu-c21] {
+	padding-top: 10px;
+	padding-bottom: 0;
+	font-size: 12px
+}
+
+.event-info[_ngcontent-ueu-c21] {
+	display: -ms-inline-flexbox;
+	display: inline-flex
+}
+
+.group-icon[_ngcontent-ueu-c21] {
+	padding-left: 4px
+}
+
+.text-center[_ngcontent-ueu-c21] {
+	text-align: center
+}
+
+.text-bold[_ngcontent-ueu-c21] {
+	font-weight: 700
+}
+
+.highlight-container[_ngcontent-ueu-c21] .sport[_ngcontent-ueu-c21] {
+	width: 100%;
+	margin-right: 10px;
+	margin-left: 10px
+}
+
+h2.sport-name[_ngcontent-ueu-c21] {
+	background: #588db6;
+	padding: 5px;
+	font-size: 14px;
+	font-weight: 700;
+	color: #fff
+}
+
+.competiton[_ngcontent-ueu-c21] {
+	width: 100%
+}
+
+.runner-x[_ngcontent-ueu-c21] {
+	text-align: center
+}
+
+.table.table-odds[_ngcontent-ueu-c21] th[_ngcontent-ueu-c21] {
+	border: none;
+	padding: 5px
+}
+
+.selections-count[_ngcontent-ueu-c21] {
+	width: 55%
+}
+
+.td-odds[_ngcontent-ueu-c21] {
+	border: none;
+	padding-top: 5px;
+	margin-top: 8px
+}
+
+div[_ngcontent-ueu-c21],
+ul[_ngcontent-ueu-c21] {
+	margin: 0;
+	padding: 0
+}
+
+li[_ngcontent-ueu-c21] {
+	list-style: none
+}
+
+.vevent[_ngcontent-ueu-c21] {
+	border-top: 1px solid #e0e6e6;
+	padding-right: 4px
+}
+
+.market-container[_ngcontent-ueu-c21] {
+	display: -ms-flexbox;
+	display: flex;
+	padding-left: 4px
+}
+
+.icon-status[_ngcontent-ueu-c21] {
+	padding-left: 8px;
+	padding-right: 5px
+}
+
+a[_ngcontent-ueu-c21] {
+	color: #2789ce!important
+}
+
+.score[_ngcontent-ueu-c21] {
+	color: #2789ce
+}
+
+.event-start-time[_ngcontent-ueu-c21] {
+	font-weight: 400;
+	color: #666;
+	margin-left: 8px
+}
+
+.event-meta-size-2[_ngcontent-ueu-c21],
+.event-meta-size-3[_ngcontent-ueu-c21] {
+	width: 100%
+}
+
+.event-meta[_ngcontent-ueu-c21] {
+	float: right
+}
+
+.event-meta[_ngcontent-ueu-c21] ul[_ngcontent-ueu-c21] li[_ngcontent-ueu-c21] {
+	-ms-flex: 1;
+	flex: 1;
+	float: left;
+	margin-left: 1px
+}
+
+.event-meta[_ngcontent-ueu-c21] ul[_ngcontent-ueu-c21] li[_ngcontent-ueu-c21]:first-child {
+	margin-left: 0;
+	line-height: 0
+}
+
+.event-meta[_ngcontent-ueu-c21] ul[_ngcontent-ueu-c21] li[_ngcontent-ueu-c21] .lay-cell[_ngcontent-ueu-c21] {
+	float: left;
+	margin-left: 1px;
+	line-height: 0
+}
+
+.event-meta[_ngcontent-ueu-c21] .prices-list[_ngcontent-ueu-c21] {
+	position: relative;
+	float: left
+}
+
+.event-meta[_ngcontent-ueu-c21] .status-overlay[_ngcontent-ueu-c21] {
+	color: #b30000;
+	border: 2px solid #b30000;
+	opacity: .7;
+	filter: alpha(opacity=70);
+	display: block;
+	position: absolute;
+	text-align: center;
+	line-height: 45px;
+	left: 0;
+	right: 0
+}
+
+.back-only[_ngcontent-ueu-c21] .event-meta[_ngcontent-ueu-c21] .status-overlay[_ngcontent-ueu-c21] {
+	font-size: 16px
+}
+
+.noselection-btn[_ngcontent-ueu-c21] {
+	cursor: initial;
+	outline: 0
+}
+
+.meto-text-inplay[_ngcontent-ueu-c21] {
+	font-weight: 700
+}
+
+.description[_ngcontent-ueu-c21] span[_ngcontent-ueu-c21] {
+	padding-right: 2px
+}
+
+.disable-odds[_ngcontent-ueu-c21] {
+	pointer-events: none;
+	opacity: .6;
+	cursor: not-allowed
+}
+
+.flex-layout[_ngcontent-ueu-c21] {
+	margin-right: 3px;
+	display: -ms-flexbox;
+	display: flex
+}
+
+.text-inplay[_ngcontent-ueu-c21] {
+	color: #39d534;
+	font-weight: 700;
+	list-style-type: disc;
+	margin-left: 8px
+}
+
+.live-score[_ngcontent-ueu-c21] {
+	color: #39d534;
+	font-weight: 700
+}
+
+.market-details[_ngcontent-ueu-c21] {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	height: 50px
+}
+
+.selection-btn[disabled][_ngcontent-ueu-c21] {
+	cursor: default
+}
+
+.market-link[_ngcontent-ueu-c21] {
+	-ms-flex: 1;
+	flex: 1
+}
+
+@media only screen and (min-width:768px) {
+	.group-live-icon[_ngcontent-ueu-c21],
+	.right-runner-name[_ngcontent-ueu-c21] {
+		width: 450px
+	}
+}
+
+@media only screen and (min-width:1200px) {
+	.event-meta[_ngcontent-ueu-c21] {
+		width: 400px
+	}
+	.group-live-icon[_ngcontent-ueu-c21] {
+		width: 450px
+	}
+}
+
+/* @font-face {
+	font-family: Montserrat;
+	src: local("Montserrat"), url(Montserrat-Regular.07689d4eaaa3d530d588.ttf) format("truetype"), url(Montserrat-Bold.d3085f686df272f9e1a2.ttf) format("truetype")
+} */
+
+/* @font-face {
+	font-family: Playfair Display BoldItalic;
+	src: local("Playfair Display BoldItalic"), url(PlayfairDisplay-BoldItalic.15660f05f3f574280072.ttf) format("truetype"), url(PlayfairDisplay-BoldItalic.15660f05f3f574280072.ttf) format("truetype")
+} */
+
+.input-group-sm[_ngcontent-ueu-c22]>.custom-select[_ngcontent-ueu-c22],
+.input-group-sm[_ngcontent-ueu-c22]>.form-control[_ngcontent-ueu-c22],
+body[_ngcontent-ueu-c22] {
+	font-size: 14px;
+	font-family: Montserrat
+}
+
+.navbar[_ngcontent-ueu-c22],
+.navbar-toggler[_ngcontent-ueu-c22] {
+	position: absolute;
+	z-index: 20;
+	-ms-flex-align: end;
+	align-items: flex-end
+}
+
+.navbar[_ngcontent-ueu-c22] .nav-item[_ngcontent-ueu-c22]:hover,
+.navbar-toggler[_ngcontent-ueu-c22] .nav-item[_ngcontent-ueu-c22]:hover {
+	text-decoration: underline
+}
+
+.navbar[_ngcontent-ueu-c22] button[_ngcontent-ueu-c22]:hover,
+.navbar-toggler[_ngcontent-ueu-c22] button[_ngcontent-ueu-c22]:hover {
+	background-color: #999;
+	text-decoration: underline
+}
+
+.navbar[_ngcontent-ueu-c22] {
+	-ms-flex-direction: column;
+	flex-direction: column;
+	width: 100%
+}
+
+.navbar-collapse[_ngcontent-ueu-c22] {
+	-ms-flex-direction: row-reverse;
+	flex-direction: row-reverse
+}
+
+.top-panel-container[_ngcontent-ueu-c22] {
+	position: absolute;
+	z-index: 15;
+	padding: 30px;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-direction: row-reverse;
+	flex-direction: row-reverse
+}
+
+.logo[_ngcontent-ueu-c22] {
+	position: absolute;
+	z-index: 15;
+	padding: 30px
+}
+
+.logo[_ngcontent-ueu-c22] img[_ngcontent-ueu-c22] {
+	width: 200px
+}
+
+.btn-in-out[_ngcontent-ueu-c22] {
+	background-color: transparent;
+	border-radius: 4px;
+	color: #fff;
+	border: 1px solid;
+	padding: 5px 30px;
+	float: right;
+	margin-left: 20px
+}
+
+.vl-up[_ngcontent-ueu-c22] {
+	z-index: 50;
+	position: absolute;
+	border-left: 1px solid #fff;
+	height: calc(40% - 180px);
+	top: calc((40% - 160px)/ 2);
+	left: calc(100vw - 65px);
+	right: auto
+}
+
+.navbar-nav[_ngcontent-ueu-c22] {
+	margin-top: 30px
+}
+
+.vl-down[_ngcontent-ueu-c22] {
+	z-index: 50;
+	position: absolute;
+	border-left: 1px solid #fff;
+	height: calc(40% - 180px);
+	bottom: calc((40% - 170px)/ 2);
+	left: calc(100vw - 65px);
+	right: auto
+}
+
+.nav-item[_ngcontent-ueu-c22] {
+	cursor: pointer;
+	float: right;
+	color: #fff!important;
+	margin: 5px 20px
+}
+
+.carousel-caption[_ngcontent-ueu-c22] {
+	font-family: Playfair Display BoldItalic;
+	font-size: 100px;
+	pointer-events: none
+}
+
+.bg-image[_ngcontent-ueu-c22] {
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%)
+}
+
+.bg[_ngcontent-ueu-c22] {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	overflow: hidden
+}
+
+/* @font-face {
+	font-family: Montserrat;
+	src: local('Montserrat'), url(assets/fonts/Montserrat-Regular.ttf) format('truetype'), url(assets/fonts/Montserrat-Bold.ttf) format('truetype')
+} */
+
+body,
+.input-group-sm>.form-control,
+.input-group-sm>.custom-select {
+	font-size: 14px;
+	font-family: Montserrat
+}
+
+/* .sprite-logos {
+	background-image: url(assets/templates/template2/images/skins/jio/logo.svg);
+	background-position: 0;
+	background-repeat: no-repeat;
+	height: 30px!important
+} */
+
+/* .football-ranger-inner {
+	background: transparent url(assets/templates/template2/images/skins/jio/load.png) no-repeat 0 0
+} */
+
+.meto-bg-hover-lay {
+	background-color: #fdd4dd
+}
+
+.meto-bg-hover-back {
+	background-color: #b8e0ff
+}
+
+.meto-bd-lay {
+	border-color: #f994a9
+}
+
+.meto-bd-red {
+	border-color: #b30000
+}
+
+.meto-bg-lay {
+	background-color: #faa9ba
+}
+
+.meto-bd-back {
+	border-color: #4db1ff
+}
+
+.meto-bd-menu {
+	border-color: #232323
+}
+
+.meto-bg-back {
+	background-color: #72bbef
+}
+
+.meto-bg-main {
+	background-color: #edf0f0
+}
+
+.meto-bg-menu {
+	background-color: #122b63
+}
+
+.meto-text-lay {
+	color: #f994a9
+}
+
+.meto-text-tab {
+	color: #fff
+}
+
+.meto-text-back {
+	color: #4db1ff
+}
+
+.meto-text-info {
+	color: #516472
+}
+
+.meto-bg-betslip,
+.meto-bg-sport {
+	background-color: #fff
+}
+
+.meto-bg-primary {
+	background-color: #3d60a4
+}
+
+.meto-text-black {
+	color: #0f0f0f
+}
+
+.meto-text-muted {
+	color: #7f7f7f
+}
+
+.meto-bg-exchange {
+	background-color: #edf0f0
+}
+
+.meto-icon-inplay {
+	color: #9bdb00
+}
+
+.meto-text-danger {
+	color: #b30000
+}
+
+.meto-text-inplay {
+	color: #090
+}
+
+.meto-text-primary {
+	color: #2789ce
+}
+
+.meto-bg-active-lay {
+	background-color: #fdd4dd
+}
+
+.meto-bg-fastbutton {
+	background-color: #c7d4e1
+}
+
+.meto-bg-hover-menu {
+	background-color: #21529e
+}
+
+.meto-text-leftmenu {
+	color: #2489d5
+}
+
+.meto-bg-active-back {
+	background-color: #b8e0ff
+}
+
+.meto-bg-header-title {
+	background-color: #179531
+}
+
+.meto-text-fastbutton {
+	color: #31507c
+}
+
+.meto-bg-leftmenu-hover {
+	background-color: #eee
+}
+
+.meto-bg-section-header {
+	background-color: #ffc21c
+}
+
+.in-play-button,
+.highlight-racing .title {
+	border-bottom: 3px solid #ffc21c
+}
+
+.meto-border-right-menu {
+	border-right: 1px solid #3d60a4
+}
+
+.meto-bg-sport-highlights-sporttab {
+	background-color: #6c91d7
+}
+
+.back {
+	background-color: #c9e6ef
+}
+
+.lay {
+	background-color: #f9e6ed
+}
+
+.mybets-body {
+	background-color: #fbfbfb
+}
+
+.container-bet-slip .nav-tabs .nav-link {
+	color: #000
+}
+
+.container-bet-slip .nav-link.active {
+	background: #fff;
+	color: #000
+}
+
+.open-bets .header-back {
+	background-color: #a6d8ff
+}
+
+.button-primary {
+	background: #1866a8
+}
+
+.bet-info {
+	color: #7e97a7
+}
+
+.btn-cancel {
+	background: #fff;
+	background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#efefef));
+	background: -moz-linear-gradient(top, #ffffff, #efefef);
+	-ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#efefef);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#efefef);
+	border: 1px solid #c7d5e0;
+	color: #3b5160
+}
+
+.odds-ladder-right .arrow-btn {
+	border: 1px solid #ccc;
+	background-color: #eee
+}
+
+.top-navbar-container .navbar .navbar-nav .nav-item a {
+	color: #000
+}
+
+.links-container {
+	background-color: #fff
+}
+
+.event-meta .status-overlay {
+	background: #fff
+}
+
+@-webkit-keyframes flash {
+	10% {
+		background-color: #ff0
+	}
+}
+
+@keyframes flash {
+	10% {
+		background-color: #ff0
+	}
+}
+
+@-webkit-keyframes flash-virtual {
+	10% {
+		background-color: #ff0
+	}
+}
+
+@keyframes flash-virtual {
+	10% {
+		background-color: #ff0
+	}
+}
+
+.header-color {
+	color: #000000a8
+}
+
+#sport-highlight .header {
+	color: #fff
+}
+
+.top-panel {
+	background-color: #ffc21c
+}
+
+.container-announcement .marquee {
+	background-color: transparent;
+	color: #777
+}
+
+.container-announcement .comment {
+	color: #777
+}
+
+.fastbutton .fastbtn {
+	color: #011d49
+}
+
+.header-fancy,
+.header-boomaker {
+	color: #fff
+}
+
+.button-primary {
+	color: #000
+}
+
+.mybets-header {
+	background-image: linear-gradient(to bottom, #f2f2f2 0, #fafafa 100%)
+}
+
+.title-event {
+	background: #fff
+}
+
+.footer-container a {
+	color: #1e1e1e
+}
+
+.block-social ul li a {
+	color: #000
+}
+
+/* .block-social ul li a .icon-mail {
+	background: url(assets/templates/template2/images/skins/jio/email.png) no-repeat
+}
+
+.login-popup-content {
+	background: url(assets/templates/template2/images/skins/jio/popup_bg.png) no-repeat;
+	background-size: cover
+}
+
+.icon-tel {
+	background: url(assets/templates/template2/images/skins/jio/whatsapp.png) no-repeat
+}
+
+.icon-telegraph {
+	background: url(assets/templates/template2/images/skins/jio/telegraph_icon.png) no-repeat
+}
+
+.icon-instagram {
+	background: url(assets/templates/template2/images/skins/jio/instagram_icon.png) no-repeat
+}
+
+.icon-facebook {
+	background: url(assets/templates/template2/images/skins/jio/facebook_icon.png) no-repeat
+}
+
+.icon-youtube {
+	background: url(assets/templates/template2/images/skins/jio/youtube_icon.png) no-repeat
+}
+
+.icon-mail {
+	background: url(assets/templates/template2/images/skins/jio/icon-mail.png) no-repeat
+}
+
+.announcement-icon {
+	background: url(assets/templates/template2/images/skins/jio/announcement.png) no-repeat
+} */
+
+.pending-stake {
+	color: #333;
+	font-size: 12px
+}
+
+.cell-back.selected {
+	background-color: #2797e6
+}
+
+.cell-lay.selected {
+	background-color: #f87c96
+}
+
+@keyframes flash {
+	10% {
+		background-color: #ff0
+	}
+}
+
+.cell-odds.cell-lay {
+	background-color: #fbd7e5
+}
+
+.cell-odds.cell-back {
+	background-color: #9ecddf
+}
+
+@-webkit-keyframes flash {
+	10% {
+		background-color: #ff0
+	}
+}
+
+@-webkit-keyframes flash-virtual {
+	10% {
+		background-color: #ff0
+	}
+}
+
+@keyframes flash-virtual {
+	10% {
+		background-color: #ff0
+	}
+}
+
+.content-404 {
+	background-color: #edf0f0
+}
+
+.layRow {
+	background: #ffeff5!important;
+	background: -moz-linear-gradient(top, #ffeff5 0%, #ffffff 100%)!important;
+	background: -webkit-linear-gradient(top, #ffeff5 0%, #ffffff 100%)!important;
+	background: linear-gradient(to bottom, #ffeff5 0%, #ffffff 100%)!important;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffeff5', endColorstr='#ffffff', GradientType=0)!important
+}
+
+.backRow {
+	background: #e5f2f9!important;
+	background: -moz-linear-gradient(top, #e5f2f9 0%, #ffffff 100%)!important;
+	background: -webkit-linear-gradient(top, #e5f2f9 0%, #ffffff 100%)!important;
+	background: linear-gradient(to bottom, #e5f2f9 0%, #ffffff 100%)!important;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e5f2f9', endColorstr='#ffffff', GradientType=0)!important
+}
+
+.check-box-color {
+	background-color: #ffc21c
+}
+
+.sport-header {}
+
+.chk-average-odds input:checked~.checkmark,
+.open-bets-header-bg {
+	background-color: #ffc21d
+}
+
+.open-bets-header {
+	border-bottom: 2px solid #ffc21d
+}
+
+.login-panel-container #login-btn-popup {
+	background-color: #fff;
+	color: #000
+}
+
+.login-panel-container .form-control {
+	color: #fff
+}
+
+.login-panel-container .eyes-icon {
+	color: #fff
+}
+
+.login-panel-container input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+	-webkit-text-fill-color: #fff;
+	transition: background-color 5000s ease-in-out 0s
+}
+
+.change-pass-content .mod-login .btn-skip {
+	background-color: #999
+}
+
+.cta-primary {
+	background-color: #ffc21d
+}
+
+.mod-login .btn-change-password {
+	color: #1e1e1e
+}
+
+.sport-header .header {
+	border-left: 8px solid #ffc21c
+}
+
+.btn-report-search,
+.btn-report-search:focus {
+	background-color: #ffc21d;
+	border-color: #ffc21d
+}
+
+.theme-template2-jio .top-panel {
+	background-color: #179531
+}
+
+.theme-template2-jio .chk-average-odds input:checked~.checkmark,
+.open-bets-header-bg {
+	background-color: #179531
+}
+
+.theme-template2-jio .container-bet-slip .nav-tabs .nav-link,
+.theme-template2-jio .container-mybets .nav-tabs .nav-link {
+	color: #fff
+}
+
+.theme-template2-jio .top-panel .nav-right .profit-group .balance .bal-val.ellipsis-text,
+.theme-template2-jio .top-panel .nav-right .profit-group .balance .fa-caret-down,
+.theme-template2-jio .top-panel .nav-right .profit-group .balance .fa-dollar-sign,
+.theme-template2-jio .container-mybets .nav-tabs .nav-link {
+	color: #fff!important
+}
+
+.top-panel .nav-right .profit-group .balance .title,
+.top-panel .nav-right .profit-group .balance .bal-val,
+.top-panel .nav-right .profit-group .liability .title,
+.top-panel .nav-right .account .title,
+.theme-template2-jio .time-contain {}
+
+.theme-template2-jio .edit-stake-header {
+	background-color: #617766;
+	color: #fff
+}
+
+.theme-template2-jio .activities-container,
+.theme-template2-jio .account-statement-container,
+.my-bet-container {
+	background-color: #f2e3a8!important;
+	background-image: none!important
+}
+
+.theme-template2-jio .top-panel .nav-right .profit-group {
+	background: rgba(52, 58, 64, .45)!important
+}
+
+.theme-template2-jio .top-panel .nav-right .account .title i {
+	color: #ffc21d!important
+}
+
+.theme-template2-jio .top-panel .nav-right .account:hover:not(.dropdown-balance),
+.theme-template2-jio .top-panel .nav-right .account:focus:not(.dropdown-balance) {
+	background-color: #617766!important
+}
+
+.theme-template2-betxhub .left-menu-icon {
+	background: #ffc21d
+}
+
+/* @media only screen and (max-width:992px) {
+	.login-popup-content {
+		background: url(assets/templates/template2/images/skins/jio/mobi_popup.png) no-repeat!important;
+		background-size: cover!important;
+		height: 410px!important
+	}
+} */
+
+.header-content-info {
+	color: #fff
+}
+
+.top-panel .menu-icon {
+	background: #ffc21d
+}
+
+.top-panel .nav-left .menu-icon a .fa-home {
+	color: #179531
+}
+
+.top-container .sport-container {
+	background-color: #ffc21d
+}
+
+.top-container .sport-container .items-10 .menu-item {
+	border-left: 1px solid #d09c10
+}
+
+.mobile-version {
+	color: #000
+}
+
+.collapse-icon {
+	background-color: #179531!important
+}
+
+.top-container .sport-container {
+	background-color: #ffc21d
+}
+
+.top-container .sport-container .items-10 .menu-item {
+	border-left: 1px solid #d09c10
+}
+
+.page-container #left-menu .item-level0.active,
+.page-container #left-menu .item-level3.active,
+.page-container #left-menu .item-level4.active,
+.page-container #left-menu .item-level5.active,
+.page-container #left-menu .up-levels .item-level1.active,
+.page-container #left-menu .up-levels .item-level2.active,
+.page-container #left-menu .downs-levels .item-level1.active,
+.page-container #left-menu .downs-levels .item-level2.active {
+	background: linear-gradient(90deg, rgba(255, 194, 29, 1) 0%, rgba(255, 255, 255, 0) 100%);
+	font-weight: 700
+}
+
+.container-main .left-menu,
+.page-container {
+	background-image: linear-gradient(132deg, #eae7d3 8.33%, #F3F0DC 8.33%, #F3F0DC 50%, #eae7d3 50%, #eae7d3 58.33%, #F3F0DC 58.33%, #F3F0DC 100%);
+	background-size: 10.35px 10px
+}
+
+.sport-list-menu {
+	background-color: #232323
+}
+
+.sport-list-menu .navbar-nav li .active {
+	background-color: #a6a9b8
+}
+
+.page-container #left-menu .item-level0,
+.page-container #left-menu .up-levels .item-level1,
+.page-container #left-menu .up-levels .item-level2 {
+	background: #cacaca
+}
+
+.top-navbar-container .selected-tab {
+	border-bottom: 5px solid #ffc21c
+}
+
+.sport-highlight .nav-tabs {
+	border-bottom: 3px solid #ffc21c
+}
+
+.sport-highlight .nav-tabs .nav-link {
+	color: #fff;
+	background-color: #a6a9b8
+}
+
+.sport-highlight .nav-tabs .nav-link.active {
+	color: #000;
+	background-color: #ffc21c
+}
+
+.edit-stake-header {
+	color: #000;
+	background-color: #d09c10
+}
+
+.sport-header .header {
+	color: #333
+}
+
+/* .sport-highlight-icon {
+	background: url(assets/templates/common/images/exchange/highlights.png);
+	background-repeat: no-repeat;
+	width: 27px;
+	height: 33px;
+	position: absolute;
+	left: 20px
+} */
+
+.sportName {
+	color: #000!important
+}
+
+.mod-comingup .mod-header {
+	color: #000
+}
+
+.top-panel .nav-right .account:hover,
+.top-panel .nav-right .account:focus {
+	background-color: #d09c10
+}
+
+.sport-highlight .sport-highlight-content .header-color {
+	margin-left: 46px;
+	color: #000
+}
+
+.sport-groups ul>li {
+	background-color: #a6a9b8
+}
+
+.sport-groups ul>li.active {
+	background-color: #ffc21c
+}
+
+.all-games .all-games-header {
+	background-color: #ffc21d
+}
+
+.text-collapse {
+	color: #ffc107
+}
+
+.container-mybets .nav-link .nav-tabs .nav-link {
+	color: #000
+}
+
+.pl-toggle.custom-control-input:checked~.pl-toggle.custom-control-label::before {
+	color: #fff;
+	border-color: #ffc21d;
+	background-color: #ffc21d
+}
+
+.live-center-container {
+	display: block
+}
+
+.live-center-container .popup {
+	background-color: #d09c10
+}
+
+.top-panel .nav-right .account:hover:not(.dropdown-balance),
+.top-panel .nav-right .account:focus:not(.dropdown-balance) {
+	box-shadow: 0 2px 40px rgba(0, 0, 0, .4) inset
+}
+
+.sport-list-menu .navbar-nav li a {
+	color: #fff
+}
+
+.main-content-wrapper .notification {
+	background: #f3f0dc!important
+}
+
+.page-container #left-menu {
+	max-height: calc(100vh - 112px)
+}
